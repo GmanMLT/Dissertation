@@ -108,7 +108,7 @@ elif page == "Key Correlation Plots":
         st.write("Kindly find the top 4 most highly correleated features with respect to attrition label")
 
         # (Overtime, JobRole, JobLevel, StockOptionLevel) with respect to the attrition label")
-        st.markdown("1. Overtime  \n2. JobRole  \n3. JobLevel  \n4. StockOptionLevel")
+        st.write("1. Overtime  \n2. JobRole  \n3. JobLevel  \n4. StockOptionLevel")
 
 
         ##Retrieve data
@@ -353,6 +353,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

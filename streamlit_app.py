@@ -382,13 +382,14 @@ elif page == "Employee Level":
       employeenumber = st.selectbox("EmployeeNumbers", leavers_sorted_df['EmployeeNumber'])
   
       #Dynamic image path based on employee number   
-      image_path = f"{employeenumber}_Employee_attrition.jpg"
+      image_path = f"graph/employee/{employeenumber}_Employee_attrition.jpg"
 
       
       st.image(
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

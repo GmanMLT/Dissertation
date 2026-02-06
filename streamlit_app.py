@@ -360,7 +360,7 @@ elif page == "Employee Level":
 
       st.subheader("List of Employees expected to leave:")
 
-      leavers_sorted_df = pd.read_csv('Leavers_sorted.csv', index_col = 0)
+      leavers_sorted_df = pd.read_csv('data/Leavers_sorted.csv', index_col = 0)
       leavers_sorted_df = leavers_sorted_df[['EmployeeNumber', 'LeaveProbability']]
       leavers_sorted_df = leavers_sorted_df.sort_values(by = 'LeaveProbability', ascending=False)
 
@@ -378,7 +378,7 @@ elif page == "Employee Level":
       st.title("Single Leaver")
       
         #list of leavers, to select by employee number 
-      leavers_sorted_df = pd.read_csv('leavers_sorted.csv', index_col = 0)
+      leavers_sorted_df = pd.read_csv('data/leavers_sorted.csv', index_col = 0)
       employeenumber = st.selectbox("EmployeeNumbers", leavers_sorted_df['EmployeeNumber'])
   
       #Dynamic image path based on employee number   
@@ -389,6 +389,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

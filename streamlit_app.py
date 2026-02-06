@@ -346,13 +346,14 @@ elif page == "Employee Level":
       employeenumber = st.selectbox("EmployeeNumbers", leavers_sorted_df['EmployeeNumber'])
       #st.title(f"{employeenumber}")
 
-      image_path = f"/{employeenumber}_Employee_attrition.jpg"
+      image_path = f"{employeenumber}_Employee_attrition.jpg"
 
       if os.path.exists(image_path):
         st.image(
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

@@ -241,6 +241,118 @@ elif page == "Organisational Level":
     #      st.write("Precision provides an indication of predicted positive instances that are actually correct. It is important to know when the model may misidentify employees who plan on staying as being an attrition risk")
 
 
+elif page == "Employee Graph":
+
+
+  from_csv_leavers_graph = pd.read_csv('dfleaversgraph.csv', index_col =0)
+
+  # Step 1: Create unique nodes
+  nodes = []
+  node_id_map = {}  # maps value -> node id
+  current_id = 0
+
+
+
+    # Employees
+  for emp in from_csv_leavers_graph['EmployeeNumber'].unique():
+      nodes.append(Node(id=current_id, properties={"label": str(emp), "type": "employee"}))
+      node_id_map[emp] = current_id
+      current_id += 1
+
+
+  # JobRoles
+  for role in from_csv_leavers_graph['JobRole'].unique():
+      nodes.append(Node(id=current_id, properties={"label": str(role), "type": "jobrole"}))
+      node_id_map[role] = current_id
+      current_id += 1
+
+  # Step 2: Create edges
+  edges = []
+  for _, row in from_csv_leavers_graph.iterrows():
+      emp_id = node_id_map[row['EmployeeNumber']]
+      role_id = node_id_map[row['JobRole']]
+
+      
+      edges.append(Edge(start=emp_id, end=role_id, properties={"label": "has_role"}))
+
+  # Step 3: Render
+  StreamlitGraphWidget(nodes=nodes, edges=edges).show()
+
+elif page == "Departamental Level":
+   st.title("Attrition Causes Departamental Level")
+
+
+
+
+
+# 1️⃣ Create a selection widget
+
+   option = st.radio(
+        "Choose a Departments Attrition Causes to Display:",
+        ("Human Resources", "Research and Development", "Sales"),
+        horizontal = 1,
+        width = "content"
+
+   )
+
+   if option == "Human Resources":
+     st.image(
+     "/content/HR_DEPARTMENT.jpg",
+     caption="HR attrition Causes")
+   elif option == "Research and Development":
+     st.image(
+     "/content/RD_DEPARTMENT.jpg",
+     caption="RD attrition Causes")
+   elif option == "Sales":
+     st.image(
+     "/content/SALES_DEPARTMENT.jpg",
+     caption="Sales attrition Causes")
+
+
+elif page == "Employee Level":
+   st.title("Leavers")
+
+
+   option = st.radio(
+        "View all potential Leavers or Focus on a Single Leaver:",
+        ("All Leavers", "Single Leaver"),
+        horizontal = 1,
+        width = "content"
+
+   )
+
+   if option == "All Leavers":
+
+      st.subheader("List of Employees expected to leave:")
+
+      leavers_sorted_df = pd.read_csv('/content/Leavers_sorted.csv', index_col = 0)
+      leavers_sorted_df = leavers_sorted_df[['EmployeeNumber', 'LeaveProbability']]
+      leavers_sorted_df = leavers_sorted_df.sort_values(by = 'LeaveProbability', ascending=False)
+
+
+
+
+      st.dataframe(leavers_sorted_df, hide_index=True)
+
+
+
+
+
+
+   elif option == "Single Leaver":
+      st.title("Single Leaver")
+
+      leavers_sorted_df = pd.read_csv('/content/leavers_sorted.csv', index_col = 0)
+      employeenumber = st.selectbox("EmployeeNumbers", leavers_sorted_df['EmployeeNumber'])
+      #st.title(f"{employeenumber}")
+
+      image_path = f"/content/{employeenumber}_Employee_attrition.jpg"
+
+      if os.path.exists(image_path):
+        st.image(
+          image_path,
+          caption=f"Attrition Causes – Employee {employeenumber}"
+      )
 
 
 

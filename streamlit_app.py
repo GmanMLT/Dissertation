@@ -269,7 +269,7 @@ elif page == "Organisational Level":
 elif page == "Employee Graph":
 
   #Retrieve data containing employee and their job role  
-  from_csv_leavers_graph = pd.read_csv('dfleaversgraph.csv', index_col =0)
+  from_csv_leavers_graph = pd.read_csv('data/dfleaversgraph.csv', index_col =0)
 
   # Store unqique employees and job roles 
   nodes = []
@@ -389,6 +389,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

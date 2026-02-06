@@ -27,7 +27,7 @@ st.set_page_config(
 # in the form of a radio widget. The parameter Navigation is simply a label to guide users. 
 page = st.sidebar.radio(
     "Navigation",
-    ["Disclaimer", "Key Correlation Plots", "Organisational Level", "Departamental Level", "Employee Leavers Level", "Model Performance", "Employee Graph"]
+    ["Disclaimer", "Key Correlation Plots", "Organisational Level", "Departamental Level", "Employee Level", "Model Performance", "Employee Leavers Graph"]
 )
 
 
@@ -266,7 +266,7 @@ elif page == "Organisational Level":
    
 
 
-elif page == "Employee Leavers Level":
+elif page == "Employee Leavers Graph":
 
   #Retrieve data containing employee and their job role  
   from_csv_leavers_graph = pd.read_csv('data/dfleaversgraph.csv', index_col =0)
@@ -389,6 +389,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

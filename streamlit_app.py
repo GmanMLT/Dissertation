@@ -325,7 +325,7 @@ elif page == "Employee Level":
 
       st.subheader("List of Employees expected to leave:")
 
-      leavers_sorted_df = pd.read_csv('/content/Leavers_sorted.csv', index_col = 0)
+      leavers_sorted_df = pd.read_csv('Leavers_sorted.csv', index_col = 0)
       leavers_sorted_df = leavers_sorted_df[['EmployeeNumber', 'LeaveProbability']]
       leavers_sorted_df = leavers_sorted_df.sort_values(by = 'LeaveProbability', ascending=False)
 
@@ -353,6 +353,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

@@ -225,13 +225,21 @@ elif page == "Key Correlation Plots":
         st.pyplot(fig, width = "stretch")
 
 
+elif page == "Organisational Level":
+  st.title("Attrition Causes Organisational Level")
 
+  st.image(
+    "Organisation_attrition.jpg",
+    caption="SHAP violin plot showing top features influencing attrition (Class 1)",
+    use_container_width=True
+)
        
    #       st.header("About the Model")
 
     #      st.write("Accuracy is a global measure of how often the model correctly predicts the employee's status (leave / stay) ")
     #      st.write("Recall provides an indication of correctly identified instances i.e. when an employee at risk of attrition is identified as not being at risk of attrition")
     #      st.write("Precision provides an indication of predicted positive instances that are actually correct. It is important to know when the model may misidentify employees who plan on staying as being an attrition risk")
+
 
 
 

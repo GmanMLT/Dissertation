@@ -258,7 +258,7 @@ elif page == "Organisational Level":
 
   #Retrieve SHAP for organisational level  
   st.image(
-    "Organisation_attrition.jpg",
+    "graph/organisation/Organisation_attrition.jpg",
     caption="Organisational SHAP plot showing top features influencing attrition (Class 1)",
     use_container_width=True
 )
@@ -389,6 +389,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

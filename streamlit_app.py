@@ -385,10 +385,11 @@ elif page == "Employee Level":
       image_path = f"{employeenumber}_Employee_attrition.jpg"
 
       
-        st.image(
+      st.image(
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

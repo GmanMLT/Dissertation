@@ -195,8 +195,8 @@ elif page == "Key Correlation Plots":
 elif page == "Model Performance":
 
           #Retrieve relevant data and place in dataframe
-          dfperformancemetrics = pd.read_csv('dfperformancemetrics.csv', index_col =0)
-          dfperformanceacc = pd.read_csv('dfperformanceacc.csv', index_col =0)     
+          dfperformancemetrics = pd.read_csv('data/dfperformancemetrics.csv', index_col =0)
+          dfperformanceacc = pd.read_csv('data/dfperformanceacc.csv', index_col =0)     
 
 
           st.title("Model Performance")
@@ -389,6 +389,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

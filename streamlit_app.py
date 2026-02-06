@@ -342,7 +342,7 @@ elif page == "Employee Level":
    elif option == "Single Leaver":
       st.title("Single Leaver")
 
-      leavers_sorted_df = pd.read_csv('/content/leavers_sorted.csv', index_col = 0)
+      leavers_sorted_df = pd.read_csv('leavers_sorted.csv', index_col = 0)
       employeenumber = st.selectbox("EmployeeNumbers", leavers_sorted_df['EmployeeNumber'])
       #st.title(f"{employeenumber}")
 
@@ -353,6 +353,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

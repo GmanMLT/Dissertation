@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 import pandas as pd
 import seaborn as sns
@@ -111,6 +110,7 @@ elif page == "Model Performance":
     #      st.write("Accuracy is a global measure of how often the model correctly predicts the employee's status (leave / stay) ")
     #      st.write("Recall provides an indication of correctly identified instances i.e. when an employee at risk of attrition is identified as not being at risk of attrition")
     #      st.write("Precision provides an indication of predicted positive instances that are actually correct. It is important to know when the model may misidentify employees who plan on staying as being an attrition risk")
+
 
 
 

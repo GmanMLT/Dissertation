@@ -1,0 +1,1471 @@
+,OverTime,Attrition,JobRole,JobLevel,StockOptionLevel
+0,Yes,Yes,Sales Executive,Associate,No
+1,No,No,Research Scientist,Associate,Basic Level of Stock
+2,Yes,Yes,Laboratory Technician,Entry,No
+3,Yes,No,Research Scientist,Entry,No
+4,No,No,Laboratory Technician,Entry,Basic Level of Stock
+5,No,No,Laboratory Technician,Entry,No
+6,Yes,No,Laboratory Technician,Entry,High Level of Stock
+7,No,No,Laboratory Technician,Entry,Basic Level of Stock
+8,No,No,Manufacturing Director,Middle-Management,No
+9,No,No,Healthcare Representative,Associate,Medium Level of Stock
+10,No,No,Laboratory Technician,Entry,Basic Level of Stock
+11,Yes,No,Laboratory Technician,Associate,No
+12,No,No,Research Scientist,Entry,Basic Level of Stock
+13,No,No,Laboratory Technician,Entry,Basic Level of Stock
+14,Yes,Yes,Laboratory Technician,Entry,No
+15,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+16,Yes,No,Research Scientist,Entry,Medium Level of Stock
+17,Yes,No,Laboratory Technician,Entry,Medium Level of Stock
+18,No,No,Manager,Head,No
+19,Yes,No,Research Scientist,Entry,No
+20,No,No,Manufacturing Director,Associate,Basic Level of Stock
+21,No,Yes,Sales Representative,Entry,No
+22,No,No,Research Director,Middle-Management,No
+23,No,No,Research Scientist,Entry,No
+24,No,Yes,Research Scientist,Entry,No
+25,No,No,Manager,C-Level,Basic Level of Stock
+26,Yes,Yes,Research Scientist,Entry,No
+27,No,No,Sales Executive,Associate,Basic Level of Stock
+28,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+29,No,No,Manager,C-Level,No
+30,No,No,Laboratory Technician,Entry,No
+31,Yes,No,Healthcare Representative,Associate,No
+32,No,No,Laboratory Technician,Entry,No
+33,No,Yes,Sales Representative,Associate,Basic Level of Stock
+34,Yes,Yes,Research Scientist,Entry,Basic Level of Stock
+35,No,No,Research Scientist,Entry,Medium Level of Stock
+36,Yes,Yes,Sales Representative,Entry,No
+37,No,No,Sales Representative,Entry,No
+38,Yes,No,Research Scientist,Entry,Basic Level of Stock
+39,No,No,Sales Executive,Associate,Medium Level of Stock
+40,No,No,Laboratory Technician,Entry,Basic Level of Stock
+41,No,No,Laboratory Technician,Entry,Basic Level of Stock
+42,No,Yes,Laboratory Technician,Entry,No
+43,No,No,Sales Executive,Middle-Management,No
+44,No,No,Laboratory Technician,Associate,No
+45,No,Yes,Research Director,C-Level,No
+46,No,No,Sales Executive,Associate,No
+47,No,No,Research Scientist,Entry,No
+48,Yes,No,Sales Executive,Associate,No
+49,No,No,Laboratory Technician,Entry,No
+50,Yes,Yes,Laboratory Technician,Middle-Management,No
+51,Yes,Yes,Laboratory Technician,Entry,No
+52,Yes,No,Sales Executive,Associate,Basic Level of Stock
+53,Yes,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+54,Yes,No,Sales Executive,Associate,Basic Level of Stock
+55,Yes,No,Research Director,Middle-Management,No
+56,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+57,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+58,No,No,Laboratory Technician,Associate,Basic Level of Stock
+59,No,No,Manufacturing Director,Associate,Basic Level of Stock
+60,Yes,No,Manufacturing Director,Associate,Basic Level of Stock
+61,No,No,Laboratory Technician,Associate,No
+62,Yes,No,Research Director,C-Level,Basic Level of Stock
+63,No,No,Sales Executive,Middle-Management,No
+64,No,No,Healthcare Representative,Middle-Management,High Level of Stock
+65,Yes,No,Manager,Head,High Level of Stock
+66,No,No,Manufacturing Director,Associate,No
+67,No,No,Research Scientist,Middle-Management,Basic Level of Stock
+68,No,No,Research Scientist,Entry,Basic Level of Stock
+69,Yes,Yes,Research Scientist,Entry,Basic Level of Stock
+70,No,No,Sales Executive,Associate,No
+71,No,No,Research Scientist,Entry,Basic Level of Stock
+72,No,No,Research Scientist,Entry,No
+73,No,No,Research Scientist,Associate,Medium Level of Stock
+74,No,No,Laboratory Technician,Entry,No
+75,No,No,Manufacturing Director,Associate,No
+76,No,No,Sales Executive,Associate,No
+77,Yes,No,Research Director,Middle-Management,No
+78,No,No,Research Director,Middle-Management,No
+79,Yes,No,Human Resources,Associate,Basic Level of Stock
+80,Yes,No,Laboratory Technician,Associate,Medium Level of Stock
+81,No,No,Research Scientist,Entry,No
+82,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+83,Yes,No,Research Scientist,Associate,High Level of Stock
+84,No,No,Manufacturing Director,Associate,No
+85,No,No,Manufacturing Director,Middle-Management,No
+86,No,No,Sales Representative,Entry,Basic Level of Stock
+87,No,No,Laboratory Technician,Entry,Medium Level of Stock
+88,No,No,Healthcare Representative,Associate,High Level of Stock
+89,No,Yes,Sales Executive,Middle-Management,No
+90,No,No,Healthcare Representative,Head,Basic Level of Stock
+91,Yes,No,Sales Executive,Associate,No
+92,Yes,No,Sales Executive,Associate,High Level of Stock
+93,Yes,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+94,No,No,Sales Executive,Associate,No
+95,No,No,Research Director,Middle-Management,Basic Level of Stock
+96,No,No,Sales Executive,Associate,Basic Level of Stock
+97,No,No,Sales Executive,Associate,No
+98,No,No,Sales Executive,Head,No
+99,No,No,Laboratory Technician,Associate,Basic Level of Stock
+100,Yes,Yes,Human Resources,Entry,No
+101,No,No,Research Scientist,Entry,No
+102,Yes,Yes,Laboratory Technician,Entry,No
+103,No,No,Research Scientist,Associate,No
+104,No,No,Healthcare Representative,Associate,Basic Level of Stock
+105,No,No,Manager,C-Level,Basic Level of Stock
+106,Yes,No,Research Director,C-Level,No
+107,Yes,Yes,Sales Executive,Associate,No
+108,No,No,Research Scientist,Entry,Medium Level of Stock
+109,No,No,Laboratory Technician,Entry,No
+110,No,No,Healthcare Representative,Middle-Management,No
+111,Yes,Yes,Laboratory Technician,Associate,No
+112,Yes,No,Manager,Head,No
+113,No,No,Laboratory Technician,Entry,Basic Level of Stock
+114,No,No,Research Scientist,Associate,Basic Level of Stock
+115,No,No,Sales Executive,Middle-Management,No
+116,No,No,Manager,Middle-Management,No
+117,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+118,No,No,Laboratory Technician,Entry,Basic Level of Stock
+119,Yes,No,Manager,Head,Medium Level of Stock
+120,No,No,Research Scientist,Entry,High Level of Stock
+121,No,No,Sales Executive,Associate,Basic Level of Stock
+122,Yes,Yes,Research Scientist,Entry,High Level of Stock
+123,No,No,Research Director,C-Level,No
+124,Yes,Yes,Sales Executive,Associate,No
+125,No,No,Research Scientist,Entry,No
+126,No,Yes,Healthcare Representative,Middle-Management,Basic Level of Stock
+127,Yes,Yes,Sales Representative,Entry,No
+128,No,No,Laboratory Technician,Entry,Basic Level of Stock
+129,No,No,Manufacturing Director,Associate,No
+130,No,No,Research Scientist,Entry,No
+131,No,No,Sales Executive,Middle-Management,No
+132,Yes,Yes,Sales Executive,Associate,Basic Level of Stock
+133,Yes,No,Sales Executive,Middle-Management,Basic Level of Stock
+134,No,No,Human Resources,Entry,Basic Level of Stock
+135,No,No,Manufacturing Director,Associate,Medium Level of Stock
+136,No,Yes,Manufacturing Director,Middle-Management,No
+137,No,No,Sales Executive,Associate,Basic Level of Stock
+138,No,No,Sales Executive,Associate,No
+139,Yes,No,Human Resources,Associate,No
+140,No,Yes,Laboratory Technician,Entry,No
+141,No,No,Research Scientist,Entry,No
+142,Yes,No,Research Scientist,Associate,No
+143,No,No,Research Scientist,Entry,No
+144,No,No,Sales Executive,Associate,High Level of Stock
+145,No,No,Research Scientist,Entry,Basic Level of Stock
+146,No,No,Laboratory Technician,Entry,No
+147,No,No,Manager,Head,Basic Level of Stock
+148,No,No,Laboratory Technician,Entry,Basic Level of Stock
+149,No,No,Laboratory Technician,Entry,No
+150,No,No,Research Scientist,Associate,Basic Level of Stock
+151,No,No,Sales Executive,Middle-Management,Medium Level of Stock
+152,Yes,No,Sales Representative,Associate,Basic Level of Stock
+153,No,No,Laboratory Technician,Associate,Basic Level of Stock
+154,No,No,Sales Executive,Middle-Management,No
+155,No,No,Manufacturing Director,Associate,Basic Level of Stock
+156,No,No,Manufacturing Director,Associate,No
+157,Yes,No,Research Scientist,Entry,Basic Level of Stock
+158,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+159,No,No,Sales Representative,Entry,Basic Level of Stock
+160,No,No,Research Scientist,Entry,Medium Level of Stock
+161,No,No,Research Scientist,Entry,Basic Level of Stock
+162,No,No,Research Scientist,Entry,Basic Level of Stock
+163,Yes,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+164,Yes,No,Research Scientist,Entry,Basic Level of Stock
+165,No,No,Manager,C-Level,No
+166,No,No,Research Scientist,Entry,Basic Level of Stock
+167,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+168,No,No,Sales Executive,Associate,No
+169,No,No,Research Scientist,Entry,No
+170,Yes,No,Research Scientist,Entry,Basic Level of Stock
+171,No,Yes,Sales Representative,Entry,No
+172,No,No,Laboratory Technician,Entry,No
+173,No,No,Laboratory Technician,Associate,Medium Level of Stock
+174,Yes,No,Sales Executive,Associate,Basic Level of Stock
+175,Yes,No,Research Scientist,Entry,Basic Level of Stock
+176,No,No,Research Scientist,Entry,No
+177,No,Yes,Laboratory Technician,Entry,No
+178,No,No,Sales Executive,Middle-Management,High Level of Stock
+179,No,No,Laboratory Technician,Entry,No
+180,Yes,No,Research Scientist,Entry,Basic Level of Stock
+181,No,No,Research Scientist,Entry,No
+182,Yes,Yes,Sales Representative,Entry,No
+183,No,No,Laboratory Technician,Entry,Basic Level of Stock
+184,No,No,Manufacturing Director,Associate,Medium Level of Stock
+185,No,No,Research Scientist,Entry,Basic Level of Stock
+186,No,No,Manager,C-Level,Basic Level of Stock
+187,No,No,Research Director,C-Level,No
+188,No,No,Manufacturing Director,Associate,No
+189,No,No,Healthcare Representative,Head,No
+190,No,No,Manager,C-Level,Basic Level of Stock
+191,No,No,Research Scientist,Entry,No
+192,Yes,Yes,Manufacturing Director,Associate,No
+193,No,No,Research Scientist,Entry,High Level of Stock
+194,No,No,Manager,Head,Basic Level of Stock
+195,Yes,No,Research Scientist,Entry,Basic Level of Stock
+196,No,No,Laboratory Technician,Associate,No
+197,No,No,Manufacturing Director,Associate,Basic Level of Stock
+198,No,No,Manufacturing Director,Associate,No
+199,No,No,Manufacturing Director,Associate,Basic Level of Stock
+200,No,No,Manufacturing Director,Associate,Basic Level of Stock
+201,Yes,No,Manufacturing Director,Associate,Medium Level of Stock
+202,Yes,No,Research Scientist,Entry,Basic Level of Stock
+203,Yes,No,Laboratory Technician,Associate,Basic Level of Stock
+204,Yes,Yes,Healthcare Representative,Associate,No
+205,No,Yes,Sales Executive,Middle-Management,High Level of Stock
+206,Yes,No,Research Scientist,Entry,Basic Level of Stock
+207,No,No,Laboratory Technician,Entry,No
+208,No,No,Healthcare Representative,Associate,Basic Level of Stock
+209,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+210,No,Yes,Sales Executive,Middle-Management,No
+211,No,No,Manufacturing Director,Middle-Management,No
+212,No,No,Sales Executive,Associate,No
+213,No,No,Research Director,Middle-Management,Medium Level of Stock
+214,Yes,Yes,Research Scientist,Entry,No
+215,Yes,No,Manager,Middle-Management,No
+216,No,Yes,Sales Executive,Associate,No
+217,No,Yes,Research Scientist,Entry,No
+218,No,No,Sales Executive,Middle-Management,No
+219,No,No,Sales Executive,Associate,Basic Level of Stock
+220,No,No,Laboratory Technician,Associate,No
+221,No,No,Research Scientist,Entry,No
+222,Yes,No,Research Director,Middle-Management,High Level of Stock
+223,No,No,Sales Executive,Middle-Management,Medium Level of Stock
+224,No,No,Manufacturing Director,Associate,Basic Level of Stock
+225,No,No,Research Scientist,Entry,Basic Level of Stock
+226,No,No,Sales Representative,Entry,Basic Level of Stock
+227,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+228,No,No,Sales Executive,Middle-Management,No
+229,Yes,Yes,Research Scientist,Entry,No
+230,No,No,Laboratory Technician,Entry,No
+231,No,No,Manager,C-Level,No
+232,No,No,Human Resources,Entry,No
+233,No,No,Manager,C-Level,Basic Level of Stock
+234,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+235,Yes,No,Manager,Head,Basic Level of Stock
+236,No,Yes,Laboratory Technician,Entry,No
+237,Yes,No,Manager,C-Level,No
+238,No,No,Sales Representative,Entry,Basic Level of Stock
+239,Yes,Yes,Laboratory Technician,Entry,No
+240,No,No,Laboratory Technician,Entry,High Level of Stock
+241,No,No,Sales Executive,Associate,No
+242,No,No,Research Scientist,Associate,Medium Level of Stock
+243,No,No,Research Scientist,Associate,Medium Level of Stock
+244,No,No,Manager,C-Level,Basic Level of Stock
+245,No,No,Research Director,Middle-Management,Basic Level of Stock
+246,No,No,Research Scientist,Entry,Basic Level of Stock
+247,No,No,Manufacturing Director,Associate,Basic Level of Stock
+248,No,No,Research Scientist,Entry,Basic Level of Stock
+249,No,No,Manufacturing Director,Associate,Basic Level of Stock
+250,No,Yes,Manufacturing Director,Middle-Management,Medium Level of Stock
+251,No,No,Healthcare Representative,Middle-Management,No
+252,No,No,Research Scientist,Entry,No
+253,Yes,No,Research Scientist,Associate,No
+254,No,No,Sales Executive,Associate,Basic Level of Stock
+255,No,No,Manufacturing Director,Associate,Medium Level of Stock
+256,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+257,No,No,Research Director,C-Level,Basic Level of Stock
+258,No,No,Research Scientist,Entry,No
+259,No,Yes,Laboratory Technician,Entry,No
+260,No,No,Laboratory Technician,Entry,No
+261,No,No,Sales Executive,Associate,Basic Level of Stock
+262,No,No,Laboratory Technician,Associate,No
+263,Yes,No,Manager,Head,Basic Level of Stock
+264,No,Yes,Laboratory Technician,Entry,No
+265,No,No,Sales Executive,Associate,Medium Level of Stock
+266,No,No,Healthcare Representative,Associate,Basic Level of Stock
+267,No,No,Healthcare Representative,Associate,Medium Level of Stock
+268,Yes,No,Healthcare Representative,Head,No
+269,No,No,Laboratory Technician,Entry,Basic Level of Stock
+270,Yes,No,Manager,C-Level,No
+271,Yes,Yes,Manager,Middle-Management,Basic Level of Stock
+272,No,No,Research Scientist,Entry,Basic Level of Stock
+273,No,No,Sales Executive,Associate,Basic Level of Stock
+274,No,No,Research Scientist,Entry,No
+275,Yes,No,Research Director,Middle-Management,Medium Level of Stock
+276,No,No,Manager,Middle-Management,Basic Level of Stock
+277,Yes,No,Sales Executive,Associate,Basic Level of Stock
+278,No,No,Manufacturing Director,Associate,Basic Level of Stock
+279,No,No,Research Director,C-Level,Medium Level of Stock
+280,Yes,No,Research Director,Head,High Level of Stock
+281,No,No,Sales Executive,Associate,No
+282,No,No,Sales Executive,Associate,No
+283,Yes,No,Laboratory Technician,Associate,Basic Level of Stock
+284,Yes,No,Healthcare Representative,Associate,Basic Level of Stock
+285,No,No,Research Scientist,Entry,No
+286,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+287,No,No,Healthcare Representative,Associate,Basic Level of Stock
+288,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+289,No,No,Research Scientist,Entry,No
+290,Yes,No,Research Director,C-Level,No
+291,No,No,Research Scientist,Associate,No
+292,No,No,Sales Representative,Entry,Basic Level of Stock
+293,Yes,Yes,Sales Executive,Associate,No
+294,Yes,No,Research Scientist,Entry,High Level of Stock
+295,No,No,Sales Executive,Head,Basic Level of Stock
+296,No,Yes,Laboratory Technician,Entry,No
+297,No,No,Sales Executive,Middle-Management,Medium Level of Stock
+298,No,No,Laboratory Technician,Entry,Medium Level of Stock
+299,No,No,Manufacturing Director,Associate,Basic Level of Stock
+300,No,No,Manager,Head,No
+301,No,No,Sales Representative,Entry,No
+302,No,No,Healthcare Representative,Associate,No
+303,No,No,Sales Executive,Associate,Basic Level of Stock
+304,No,No,Healthcare Representative,Middle-Management,High Level of Stock
+305,No,No,Laboratory Technician,Associate,Basic Level of Stock
+306,No,No,Sales Executive,Associate,Basic Level of Stock
+307,No,No,Research Director,Middle-Management,Basic Level of Stock
+308,Yes,No,Healthcare Representative,Associate,Basic Level of Stock
+309,Yes,No,Research Scientist,Entry,Basic Level of Stock
+310,No,No,Human Resources,Associate,No
+311,No,No,Laboratory Technician,Middle-Management,Basic Level of Stock
+312,Yes,No,Research Scientist,Entry,Basic Level of Stock
+313,No,No,Manager,Middle-Management,Medium Level of Stock
+314,Yes,No,Manager,Head,No
+315,No,No,Laboratory Technician,Entry,No
+316,Yes,No,Healthcare Representative,Head,No
+317,No,Yes,Research Scientist,Associate,No
+318,Yes,No,Research Scientist,Entry,No
+319,Yes,No,Sales Executive,Associate,No
+320,Yes,No,Sales Executive,Associate,No
+321,No,No,Sales Executive,Associate,High Level of Stock
+322,No,No,Research Scientist,Associate,No
+323,Yes,Yes,Research Scientist,Entry,No
+324,No,No,Research Scientist,Associate,Medium Level of Stock
+325,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+326,No,No,Manager,C-Level,Basic Level of Stock
+327,Yes,Yes,Sales Executive,Associate,No
+328,No,No,Sales Executive,Associate,No
+329,No,No,Research Director,C-Level,Basic Level of Stock
+330,No,No,Laboratory Technician,Associate,Basic Level of Stock
+331,Yes,No,Sales Executive,Associate,Basic Level of Stock
+332,No,No,Research Scientist,Associate,No
+333,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+334,No,No,Research Scientist,Associate,Medium Level of Stock
+335,Yes,No,Sales Executive,Associate,High Level of Stock
+336,Yes,Yes,Laboratory Technician,Entry,No
+337,No,No,Laboratory Technician,Entry,No
+338,No,No,Sales Executive,Associate,High Level of Stock
+339,No,No,Sales Executive,Associate,Basic Level of Stock
+340,No,No,Manufacturing Director,Associate,Medium Level of Stock
+341,Yes,No,Research Director,Middle-Management,Basic Level of Stock
+342,Yes,No,Manufacturing Director,Middle-Management,No
+343,Yes,No,Sales Executive,Associate,Medium Level of Stock
+344,No,No,Manufacturing Director,Middle-Management,No
+345,No,No,Research Scientist,Entry,Medium Level of Stock
+346,Yes,No,Manufacturing Director,Associate,No
+347,No,No,Sales Representative,Associate,No
+348,No,No,Research Director,Head,No
+349,No,No,Sales Executive,Associate,Basic Level of Stock
+350,Yes,No,Human Resources,Entry,Basic Level of Stock
+351,No,No,Laboratory Technician,Entry,Basic Level of Stock
+352,No,No,Manager,Middle-Management,Basic Level of Stock
+353,Yes,No,Research Scientist,Associate,Medium Level of Stock
+354,Yes,No,Sales Executive,Associate,Basic Level of Stock
+355,No,No,Sales Executive,Associate,Basic Level of Stock
+356,No,No,Healthcare Representative,Associate,No
+357,Yes,Yes,Sales Representative,Entry,No
+358,No,No,Sales Executive,Associate,No
+359,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+360,No,No,Healthcare Representative,Associate,No
+361,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+362,No,No,Sales Representative,Entry,No
+363,Yes,Yes,Sales Representative,Entry,No
+364,No,No,Laboratory Technician,Entry,Basic Level of Stock
+365,No,No,Manufacturing Director,Associate,No
+366,No,Yes,Sales Executive,Associate,No
+367,No,No,Healthcare Representative,Middle-Management,No
+368,Yes,Yes,Sales Executive,Associate,Medium Level of Stock
+369,Yes,No,Research Scientist,Entry,No
+370,No,Yes,Sales Representative,Entry,No
+371,No,No,Research Scientist,Entry,No
+372,No,No,Healthcare Representative,Associate,No
+373,No,No,Laboratory Technician,Entry,Basic Level of Stock
+374,No,No,Sales Executive,Associate,No
+375,No,No,Healthcare Representative,Middle-Management,No
+376,No,No,Sales Executive,Associate,Basic Level of Stock
+377,No,No,Research Scientist,Entry,Basic Level of Stock
+378,Yes,Yes,Sales Executive,Associate,No
+379,Yes,No,Manager,Head,No
+380,Yes,No,Sales Executive,Associate,Basic Level of Stock
+381,No,No,Sales Representative,Entry,Basic Level of Stock
+382,No,Yes,Research Scientist,Entry,No
+383,No,No,Research Scientist,Entry,Basic Level of Stock
+384,No,No,Sales Executive,Middle-Management,Medium Level of Stock
+385,Yes,Yes,Research Scientist,Entry,No
+386,No,No,Laboratory Technician,Entry,Basic Level of Stock
+387,No,No,Sales Executive,Associate,Medium Level of Stock
+388,No,No,Laboratory Technician,Entry,Basic Level of Stock
+389,Yes,No,Manufacturing Director,Associate,No
+390,No,No,Research Director,Head,Basic Level of Stock
+391,No,No,Laboratory Technician,Associate,Basic Level of Stock
+392,No,No,Research Director,C-Level,Basic Level of Stock
+393,No,No,Sales Executive,Associate,Basic Level of Stock
+394,No,No,Manufacturing Director,Associate,Basic Level of Stock
+395,No,No,Laboratory Technician,Entry,Basic Level of Stock
+396,Yes,No,Healthcare Representative,Associate,No
+397,Yes,No,Sales Executive,Associate,No
+398,Yes,No,Research Scientist,Associate,Medium Level of Stock
+399,No,No,Laboratory Technician,Entry,Basic Level of Stock
+400,Yes,No,Manager,C-Level,Basic Level of Stock
+401,No,No,Sales Executive,Head,High Level of Stock
+402,No,No,Sales Executive,Associate,No
+403,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+404,No,No,Laboratory Technician,Associate,Basic Level of Stock
+405,No,Yes,Laboratory Technician,Entry,Basic Level of Stock
+406,Yes,No,Manufacturing Director,Middle-Management,No
+407,No,No,Research Scientist,Entry,Medium Level of Stock
+408,No,No,Manager,Head,No
+409,No,No,Research Scientist,Associate,Basic Level of Stock
+410,No,No,Manufacturing Director,Associate,No
+411,No,No,Manager,C-Level,No
+412,No,No,Manufacturing Director,Associate,Basic Level of Stock
+413,No,No,Healthcare Representative,Associate,High Level of Stock
+414,Yes,Yes,Sales Representative,Entry,No
+415,No,Yes,Sales Representative,Entry,Basic Level of Stock
+416,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+417,No,No,Manager,C-Level,No
+418,No,No,Research Scientist,Entry,Medium Level of Stock
+419,No,No,Laboratory Technician,Entry,Basic Level of Stock
+420,No,No,Research Director,Middle-Management,No
+421,No,Yes,Research Scientist,Entry,No
+422,No,Yes,Human Resources,Entry,No
+423,No,No,Sales Executive,Middle-Management,No
+424,No,No,Manager,Head,Basic Level of Stock
+425,No,No,Manager,Head,Basic Level of Stock
+426,No,No,Laboratory Technician,Entry,No
+427,No,No,Sales Executive,Middle-Management,No
+428,No,No,Manufacturing Director,Associate,High Level of Stock
+429,No,No,Research Director,Head,No
+430,No,No,Laboratory Technician,Entry,No
+431,No,No,Laboratory Technician,Associate,No
+432,No,No,Research Scientist,Entry,Basic Level of Stock
+433,Yes,No,Sales Executive,Middle-Management,Basic Level of Stock
+434,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+435,Yes,Yes,Manager,Middle-Management,No
+436,No,Yes,Laboratory Technician,Entry,High Level of Stock
+437,No,No,Sales Representative,Entry,No
+438,Yes,No,Healthcare Representative,Middle-Management,No
+439,No,Yes,Healthcare Representative,Middle-Management,No
+440,Yes,Yes,Human Resources,Middle-Management,High Level of Stock
+441,No,No,Laboratory Technician,Entry,Basic Level of Stock
+442,No,No,Sales Executive,Middle-Management,No
+443,No,Yes,Laboratory Technician,Entry,No
+444,No,No,Sales Executive,Associate,Basic Level of Stock
+445,No,No,Manager,Head,No
+446,No,No,Sales Executive,Associate,No
+447,No,No,Sales Executive,Associate,No
+448,No,No,Manufacturing Director,Head,No
+449,No,No,Laboratory Technician,Entry,Basic Level of Stock
+450,Yes,No,Sales Executive,Associate,No
+451,Yes,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+452,No,No,Sales Executive,Associate,Basic Level of Stock
+453,Yes,Yes,Human Resources,Entry,Basic Level of Stock
+454,No,No,Manufacturing Director,Associate,Medium Level of Stock
+455,No,No,Research Director,Head,Basic Level of Stock
+456,No,No,Manager,Middle-Management,Basic Level of Stock
+457,Yes,Yes,Sales Representative,Entry,No
+458,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+459,Yes,No,Healthcare Representative,Associate,No
+460,No,No,Sales Executive,Associate,Medium Level of Stock
+461,No,No,Sales Executive,Associate,No
+462,No,No,Sales Executive,Associate,No
+463,Yes,Yes,Laboratory Technician,Entry,No
+464,No,No,Manufacturing Director,Middle-Management,No
+465,No,No,Healthcare Representative,Middle-Management,No
+466,No,No,Manager,Head,Basic Level of Stock
+467,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+468,Yes,No,Research Scientist,Associate,Medium Level of Stock
+469,No,Yes,Sales Executive,Associate,No
+470,No,No,Sales Representative,Entry,Medium Level of Stock
+471,No,No,Healthcare Representative,Associate,Basic Level of Stock
+472,No,No,Manufacturing Director,Associate,Basic Level of Stock
+473,Yes,No,Research Director,C-Level,Basic Level of Stock
+474,Yes,No,Research Scientist,Entry,Medium Level of Stock
+475,No,No,Sales Executive,Associate,Medium Level of Stock
+476,No,No,Laboratory Technician,Entry,Basic Level of Stock
+477,No,No,Manager,C-Level,Basic Level of Stock
+478,No,No,Sales Representative,Entry,No
+479,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+480,No,Yes,Sales Representative,Entry,Basic Level of Stock
+481,Yes,No,Research Scientist,Entry,Basic Level of Stock
+482,No,Yes,Sales Executive,Associate,No
+483,No,No,Laboratory Technician,Associate,No
+484,No,No,Sales Executive,Associate,Medium Level of Stock
+485,No,No,Research Scientist,Entry,Medium Level of Stock
+486,Yes,No,Sales Executive,Associate,Basic Level of Stock
+487,No,No,Research Scientist,Entry,No
+488,No,No,Healthcare Representative,Associate,Medium Level of Stock
+489,Yes,No,Research Director,Head,Basic Level of Stock
+490,No,No,Research Scientist,Entry,No
+491,Yes,No,Laboratory Technician,Associate,Basic Level of Stock
+492,No,No,Manager,Head,Basic Level of Stock
+493,No,No,Human Resources,Associate,No
+494,Yes,No,Sales Representative,Entry,Medium Level of Stock
+495,No,Yes,Sales Representative,Entry,Basic Level of Stock
+496,No,No,Sales Representative,Entry,No
+497,Yes,No,Manager,C-Level,Basic Level of Stock
+498,No,No,Research Scientist,Entry,No
+499,No,No,Sales Executive,Associate,No
+500,Yes,No,Research Scientist,Associate,Basic Level of Stock
+501,No,No,Research Scientist,Entry,Basic Level of Stock
+502,No,No,Sales Executive,Associate,No
+503,No,No,Research Scientist,Entry,Basic Level of Stock
+504,No,Yes,Sales Executive,Associate,Medium Level of Stock
+505,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+506,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+507,No,No,Sales Executive,Associate,Basic Level of Stock
+508,No,No,Research Scientist,Associate,No
+509,No,No,Healthcare Representative,Associate,Basic Level of Stock
+510,No,No,Human Resources,Middle-Management,Basic Level of Stock
+511,Yes,No,Manufacturing Director,Associate,Basic Level of Stock
+512,No,No,Research Scientist,Entry,No
+513,Yes,Yes,Research Scientist,Entry,No
+514,Yes,Yes,Research Scientist,Entry,No
+515,No,No,Laboratory Technician,Entry,Medium Level of Stock
+516,No,No,Research Scientist,Entry,Basic Level of Stock
+517,No,No,Sales Executive,Associate,Basic Level of Stock
+518,No,No,Sales Executive,Associate,No
+519,No,No,Research Scientist,Entry,Basic Level of Stock
+520,No,No,Sales Executive,Associate,No
+521,Yes,No,Sales Executive,Associate,Medium Level of Stock
+522,No,No,Research Scientist,Entry,No
+523,Yes,No,Laboratory Technician,Entry,High Level of Stock
+524,No,No,Healthcare Representative,Middle-Management,No
+525,No,Yes,Sales Executive,Associate,No
+526,No,No,Healthcare Representative,Associate,No
+527,No,No,Sales Executive,Associate,No
+528,Yes,Yes,Sales Executive,Associate,Basic Level of Stock
+529,No,No,Healthcare Representative,Associate,No
+530,No,No,Manufacturing Director,Middle-Management,No
+531,No,No,Research Director,Middle-Management,No
+532,No,No,Sales Executive,Associate,No
+533,Yes,No,Sales Executive,Middle-Management,Basic Level of Stock
+534,No,No,Research Director,Head,No
+535,No,No,Manager,C-Level,High Level of Stock
+536,No,No,Sales Executive,Associate,No
+537,No,No,Manufacturing Director,Middle-Management,Medium Level of Stock
+538,No,No,Manager,C-Level,Basic Level of Stock
+539,No,No,Sales Representative,Entry,Basic Level of Stock
+540,Yes,Yes,Research Scientist,Entry,No
+541,No,No,Research Director,Middle-Management,Basic Level of Stock
+542,Yes,No,Manufacturing Director,Middle-Management,No
+543,No,No,Laboratory Technician,Entry,No
+544,Yes,No,Sales Executive,Head,Medium Level of Stock
+545,No,No,Sales Executive,Associate,Basic Level of Stock
+546,No,No,Sales Representative,Entry,No
+547,Yes,Yes,Research Scientist,Entry,No
+548,No,No,Sales Executive,Associate,Basic Level of Stock
+549,No,No,Healthcare Representative,Associate,No
+550,No,No,Laboratory Technician,Entry,Basic Level of Stock
+551,No,No,Human Resources,Associate,Basic Level of Stock
+552,No,No,Healthcare Representative,Head,No
+553,Yes,No,Research Scientist,Entry,No
+554,No,No,Healthcare Representative,Associate,No
+555,No,No,Sales Representative,Entry,Medium Level of Stock
+556,No,No,Laboratory Technician,Associate,No
+557,No,No,Healthcare Representative,Associate,Basic Level of Stock
+558,No,No,Laboratory Technician,Associate,Medium Level of Stock
+559,Yes,No,Research Scientist,Entry,Basic Level of Stock
+560,No,No,Manufacturing Director,Associate,Basic Level of Stock
+561,No,No,Manager,Head,No
+562,Yes,Yes,Research Scientist,Entry,No
+563,No,No,Sales Executive,Associate,No
+564,No,No,Sales Representative,Associate,No
+565,No,No,Research Scientist,Entry,No
+566,Yes,Yes,Sales Executive,Associate,No
+567,No,No,Sales Executive,Associate,No
+568,Yes,Yes,Manager,C-Level,Basic Level of Stock
+569,No,No,Sales Executive,Middle-Management,No
+570,No,No,Research Scientist,Entry,Basic Level of Stock
+571,No,No,Laboratory Technician,Entry,Basic Level of Stock
+572,No,No,Healthcare Representative,Associate,Basic Level of Stock
+573,No,Yes,Sales Executive,Associate,No
+574,No,No,Research Scientist,Entry,No
+575,Yes,No,Manufacturing Director,Associate,Medium Level of Stock
+576,No,No,Sales Executive,Associate,Basic Level of Stock
+577,Yes,No,Research Scientist,Entry,Medium Level of Stock
+578,Yes,No,Manufacturing Director,Associate,No
+579,No,No,Research Scientist,Entry,No
+580,No,No,Sales Representative,Entry,Basic Level of Stock
+581,No,No,Laboratory Technician,Entry,Medium Level of Stock
+582,No,No,Healthcare Representative,Associate,Basic Level of Stock
+583,No,No,Sales Executive,Associate,Basic Level of Stock
+584,No,No,Manager,C-Level,Basic Level of Stock
+585,Yes,Yes,Laboratory Technician,Entry,Medium Level of Stock
+586,No,No,Laboratory Technician,Entry,High Level of Stock
+587,No,No,Laboratory Technician,Associate,Basic Level of Stock
+588,No,No,Research Director,Head,No
+589,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+590,No,No,Research Director,Middle-Management,No
+591,No,Yes,Sales Executive,Associate,No
+592,Yes,No,Manager,Head,Basic Level of Stock
+593,No,No,Manufacturing Director,Associate,Basic Level of Stock
+594,No,No,Research Scientist,Entry,Basic Level of Stock
+595,Yes,Yes,Research Director,C-Level,No
+596,No,No,Research Scientist,Entry,No
+597,Yes,No,Manufacturing Director,Associate,Basic Level of Stock
+598,No,Yes,Research Scientist,Entry,No
+599,No,No,Human Resources,Entry,Basic Level of Stock
+600,No,No,Manufacturing Director,Associate,Basic Level of Stock
+601,No,No,Laboratory Technician,Associate,No
+602,Yes,No,Manufacturing Director,Associate,No
+603,No,No,Research Scientist,Entry,No
+604,No,No,Manufacturing Director,Associate,Basic Level of Stock
+605,No,No,Healthcare Representative,Associate,Basic Level of Stock
+606,No,No,Research Scientist,Entry,No
+607,No,Yes,Sales Executive,Middle-Management,Medium Level of Stock
+608,No,Yes,Sales Executive,Associate,No
+609,No,No,Research Director,Head,Basic Level of Stock
+610,Yes,No,Research Director,Middle-Management,Basic Level of Stock
+611,No,No,Manufacturing Director,Middle-Management,No
+612,Yes,No,Sales Executive,Associate,No
+613,No,No,Human Resources,Entry,Basic Level of Stock
+614,Yes,Yes,Research Scientist,Entry,Basic Level of Stock
+615,No,No,Research Scientist,Entry,High Level of Stock
+616,No,No,Manager,Head,Basic Level of Stock
+617,No,No,Healthcare Representative,Associate,No
+618,No,No,Research Scientist,Entry,No
+619,No,No,Sales Executive,Associate,Basic Level of Stock
+620,No,No,Research Scientist,Entry,No
+621,Yes,No,Sales Executive,Associate,Basic Level of Stock
+622,No,No,Sales Executive,Associate,Basic Level of Stock
+623,No,No,Research Scientist,Entry,Basic Level of Stock
+624,Yes,No,Sales Executive,Middle-Management,Basic Level of Stock
+625,Yes,No,Sales Executive,Middle-Management,Basic Level of Stock
+626,No,No,Research Scientist,Associate,Basic Level of Stock
+627,No,No,Manufacturing Director,Head,No
+628,No,No,Sales Executive,Associate,Medium Level of Stock
+629,No,No,Human Resources,Entry,Basic Level of Stock
+630,No,No,Manufacturing Director,Associate,Medium Level of Stock
+631,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+632,Yes,No,Research Scientist,Entry,No
+633,No,No,Human Resources,Entry,No
+634,Yes,No,Sales Executive,Associate,No
+635,Yes,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+636,Yes,Yes,Research Scientist,Entry,Basic Level of Stock
+637,No,No,Laboratory Technician,Entry,Basic Level of Stock
+638,No,No,Sales Executive,Associate,No
+639,No,No,Research Scientist,Entry,Basic Level of Stock
+640,No,No,Laboratory Technician,Entry,No
+641,No,No,Sales Executive,Associate,Basic Level of Stock
+642,No,No,Sales Representative,Entry,Basic Level of Stock
+643,Yes,No,Laboratory Technician,Associate,Basic Level of Stock
+644,Yes,No,Research Scientist,Entry,Basic Level of Stock
+645,Yes,Yes,Sales Representative,Entry,High Level of Stock
+646,No,No,Sales Executive,Head,Basic Level of Stock
+647,No,No,Manufacturing Director,Middle-Management,No
+648,No,No,Sales Representative,Entry,Basic Level of Stock
+649,No,No,Research Director,Head,No
+650,No,No,Healthcare Representative,Associate,Basic Level of Stock
+651,Yes,No,Sales Executive,Associate,Basic Level of Stock
+652,Yes,No,Sales Executive,Middle-Management,No
+653,No,No,Manager,Head,Basic Level of Stock
+654,No,No,Human Resources,Associate,Medium Level of Stock
+655,Yes,No,Human Resources,Entry,Basic Level of Stock
+656,Yes,Yes,Laboratory Technician,Entry,No
+657,No,No,Laboratory Technician,Entry,High Level of Stock
+658,Yes,No,Research Scientist,Entry,No
+659,No,No,Sales Executive,Associate,No
+660,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+661,No,No,Manufacturing Director,Associate,Basic Level of Stock
+662,No,Yes,Sales Representative,Entry,No
+663,No,Yes,Research Scientist,Entry,No
+664,Yes,No,Healthcare Representative,Associate,Basic Level of Stock
+665,Yes,No,Sales Representative,Entry,No
+666,Yes,Yes,Manufacturing Director,Associate,Basic Level of Stock
+667,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+668,No,No,Research Scientist,Entry,Basic Level of Stock
+669,Yes,Yes,Laboratory Technician,Entry,No
+670,No,No,Research Scientist,Entry,No
+671,No,No,Laboratory Technician,Entry,Medium Level of Stock
+672,No,No,Sales Executive,Associate,No
+673,Yes,No,Research Scientist,Entry,No
+674,Yes,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+675,No,No,Sales Representative,Entry,No
+676,Yes,No,Healthcare Representative,Associate,Basic Level of Stock
+677,No,No,Laboratory Technician,Middle-Management,Basic Level of Stock
+678,No,No,Research Scientist,Entry,Medium Level of Stock
+679,No,No,Sales Executive,Associate,Basic Level of Stock
+680,No,No,Research Scientist,Entry,No
+681,No,No,Research Director,Middle-Management,Basic Level of Stock
+682,No,No,Laboratory Technician,Entry,No
+683,Yes,Yes,Sales Representative,Entry,High Level of Stock
+684,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+685,No,No,Sales Executive,Associate,No
+686,Yes,No,Laboratory Technician,Entry,No
+687,No,No,Laboratory Technician,Entry,No
+688,Yes,Yes,Sales Representative,Entry,No
+689,No,Yes,Laboratory Technician,Entry,No
+690,Yes,No,Healthcare Representative,Associate,Medium Level of Stock
+691,Yes,No,Research Scientist,Entry,Basic Level of Stock
+692,No,No,Manufacturing Director,Associate,Basic Level of Stock
+693,Yes,Yes,Sales Executive,Middle-Management,Basic Level of Stock
+694,No,No,Healthcare Representative,Associate,No
+695,No,Yes,Sales Executive,Middle-Management,No
+696,No,No,Laboratory Technician,Associate,No
+697,No,No,Sales Representative,Entry,Basic Level of Stock
+698,No,No,Sales Executive,Associate,No
+699,No,No,Manager,Head,Basic Level of Stock
+700,No,Yes,Research Scientist,Entry,No
+701,No,No,Manager,Head,Basic Level of Stock
+702,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+703,Yes,No,Sales Executive,Associate,No
+704,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+705,No,No,Sales Executive,Middle-Management,No
+706,Yes,Yes,Sales Executive,Head,No
+707,Yes,No,Manufacturing Director,Associate,No
+708,No,No,Sales Executive,Associate,Medium Level of Stock
+709,Yes,Yes,Research Scientist,Entry,No
+710,No,No,Manager,Head,No
+711,Yes,Yes,Research Scientist,Entry,No
+712,No,No,Research Scientist,Entry,No
+713,No,No,Laboratory Technician,Entry,Medium Level of Stock
+714,No,No,Research Director,Head,Basic Level of Stock
+715,Yes,No,Healthcare Representative,Associate,Basic Level of Stock
+716,No,No,Research Director,C-Level,Basic Level of Stock
+717,No,No,Laboratory Technician,Entry,Basic Level of Stock
+718,Yes,No,Laboratory Technician,Associate,Basic Level of Stock
+719,Yes,No,Sales Executive,Associate,No
+720,Yes,Yes,Research Scientist,Entry,No
+721,Yes,No,Manufacturing Director,Head,Basic Level of Stock
+722,No,No,Research Scientist,Entry,Basic Level of Stock
+723,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+724,No,No,Manufacturing Director,Associate,Medium Level of Stock
+725,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+726,No,No,Manufacturing Director,Associate,Basic Level of Stock
+727,No,No,Research Scientist,Entry,No
+728,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+729,Yes,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+730,Yes,No,Research Director,Middle-Management,High Level of Stock
+731,Yes,Yes,Research Scientist,Entry,No
+732,No,Yes,Laboratory Technician,Entry,No
+733,No,No,Manufacturing Director,Associate,No
+734,No,No,Laboratory Technician,Entry,Basic Level of Stock
+735,No,No,Healthcare Representative,Associate,No
+736,No,No,Healthcare Representative,Middle-Management,No
+737,No,No,Manufacturing Director,Associate,No
+738,No,No,Manufacturing Director,Head,Basic Level of Stock
+739,No,No,Manufacturing Director,Associate,Basic Level of Stock
+740,No,No,Laboratory Technician,Entry,Basic Level of Stock
+741,No,No,Manager,C-Level,No
+742,No,No,Laboratory Technician,Entry,No
+743,Yes,No,Manufacturing Director,Head,No
+744,No,Yes,Healthcare Representative,Associate,No
+745,Yes,No,Healthcare Representative,Associate,Medium Level of Stock
+746,No,No,Research Director,C-Level,Medium Level of Stock
+747,Yes,No,Sales Executive,Associate,No
+748,No,Yes,Sales Executive,Associate,No
+749,No,Yes,Manager,C-Level,Basic Level of Stock
+750,Yes,No,Sales Executive,Head,Basic Level of Stock
+751,No,No,Sales Executive,Associate,Basic Level of Stock
+752,No,Yes,Laboratory Technician,Entry,No
+753,Yes,No,Manufacturing Director,Middle-Management,No
+754,No,No,Sales Representative,Entry,No
+755,No,No,Manager,Head,Basic Level of Stock
+756,No,No,Laboratory Technician,Entry,No
+757,No,No,Sales Executive,Associate,Basic Level of Stock
+758,Yes,No,Manager,Middle-Management,Basic Level of Stock
+759,No,No,Human Resources,Entry,No
+760,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+761,No,Yes,Laboratory Technician,Associate,Basic Level of Stock
+762,Yes,Yes,Research Scientist,Entry,Basic Level of Stock
+763,Yes,No,Sales Representative,Entry,Basic Level of Stock
+764,No,No,Sales Representative,Entry,No
+765,No,No,Research Scientist,Entry,Basic Level of Stock
+766,Yes,No,Research Director,C-Level,Basic Level of Stock
+767,No,No,Healthcare Representative,Associate,No
+768,No,No,Sales Executive,Associate,Basic Level of Stock
+769,No,No,Research Scientist,Entry,Medium Level of Stock
+770,No,No,Research Director,C-Level,Medium Level of Stock
+771,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+772,No,No,Research Scientist,Entry,Basic Level of Stock
+773,No,No,Manufacturing Director,Middle-Management,No
+774,No,No,Manager,Head,No
+775,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+776,Yes,Yes,Sales Representative,Entry,No
+777,No,Yes,Laboratory Technician,Entry,No
+778,Yes,No,Research Scientist,Associate,High Level of Stock
+779,Yes,Yes,Research Scientist,Entry,High Level of Stock
+780,No,Yes,Healthcare Representative,Middle-Management,No
+781,No,No,Laboratory Technician,Entry,Medium Level of Stock
+782,No,No,Manufacturing Director,Associate,Basic Level of Stock
+783,No,No,Research Scientist,Entry,No
+784,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+785,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+786,No,No,Laboratory Technician,Entry,High Level of Stock
+787,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+788,No,No,Research Scientist,Associate,No
+789,No,Yes,Human Resources,Middle-Management,Basic Level of Stock
+790,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+791,Yes,Yes,Sales Executive,Middle-Management,No
+792,No,Yes,Research Scientist,Associate,No
+793,No,No,Laboratory Technician,Entry,Basic Level of Stock
+794,No,No,Healthcare Representative,Associate,No
+795,Yes,No,Sales Executive,Associate,High Level of Stock
+796,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+797,No,Yes,Laboratory Technician,Entry,Basic Level of Stock
+798,Yes,Yes,Research Scientist,Entry,No
+799,No,No,Manager,Head,Basic Level of Stock
+800,No,Yes,Laboratory Technician,Entry,Medium Level of Stock
+801,Yes,Yes,Sales Executive,Associate,No
+802,No,No,Sales Executive,Associate,Basic Level of Stock
+803,No,No,Research Scientist,Entry,High Level of Stock
+804,No,No,Manager,Head,No
+805,No,No,Sales Executive,Associate,Basic Level of Stock
+806,No,No,Healthcare Representative,Middle-Management,No
+807,Yes,No,Sales Executive,Middle-Management,Medium Level of Stock
+808,No,No,Research Scientist,Entry,Basic Level of Stock
+809,No,No,Manufacturing Director,Middle-Management,High Level of Stock
+810,No,No,Manager,Head,Basic Level of Stock
+811,No,No,Sales Executive,Middle-Management,No
+812,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+813,No,Yes,Healthcare Representative,Head,High Level of Stock
+814,No,No,Research Director,C-Level,No
+815,Yes,No,Research Scientist,Entry,No
+816,No,No,Laboratory Technician,Associate,No
+817,No,No,Manufacturing Director,Associate,No
+818,No,No,Sales Representative,Entry,Basic Level of Stock
+819,No,No,Research Scientist,Entry,No
+820,No,No,Sales Executive,Associate,Basic Level of Stock
+821,No,No,Sales Executive,Head,Basic Level of Stock
+822,No,No,Manufacturing Director,Associate,No
+823,No,No,Research Scientist,Entry,Medium Level of Stock
+824,No,No,Laboratory Technician,Associate,No
+825,Yes,No,Manufacturing Director,Associate,Basic Level of Stock
+826,No,No,Human Resources,Entry,Basic Level of Stock
+827,Yes,No,Research Scientist,Entry,Basic Level of Stock
+828,No,Yes,Laboratory Technician,Entry,No
+829,Yes,Yes,Sales Executive,Associate,No
+830,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+831,No,Yes,Laboratory Technician,Entry,Basic Level of Stock
+832,No,No,Healthcare Representative,Associate,Medium Level of Stock
+833,No,No,Research Scientist,Entry,Basic Level of Stock
+834,No,No,Sales Executive,Associate,No
+835,No,No,Human Resources,Entry,No
+836,No,Yes,Sales Executive,Middle-Management,Basic Level of Stock
+837,No,No,Research Director,Middle-Management,No
+838,Yes,Yes,Sales Executive,Head,No
+839,No,No,Sales Executive,Associate,No
+840,No,No,Laboratory Technician,Entry,Basic Level of Stock
+841,No,No,Laboratory Technician,Entry,No
+842,Yes,Yes,Laboratory Technician,Entry,No
+843,No,No,Laboratory Technician,Entry,Basic Level of Stock
+844,No,No,Sales Executive,Associate,Basic Level of Stock
+845,Yes,No,Research Scientist,Associate,Basic Level of Stock
+846,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+847,No,No,Healthcare Representative,Associate,No
+848,No,No,Laboratory Technician,Entry,Basic Level of Stock
+849,No,Yes,Sales Executive,Associate,No
+850,No,No,Sales Representative,Entry,High Level of Stock
+851,No,No,Manager,C-Level,Basic Level of Stock
+852,No,No,Laboratory Technician,Entry,Basic Level of Stock
+853,No,No,Research Scientist,Entry,No
+854,Yes,No,Research Scientist,Entry,Basic Level of Stock
+855,No,No,Manufacturing Director,Associate,Basic Level of Stock
+856,No,No,Laboratory Technician,Entry,No
+857,Yes,Yes,Research Scientist,Entry,No
+858,No,No,Manager,C-Level,Basic Level of Stock
+859,Yes,No,Research Scientist,Entry,Basic Level of Stock
+860,Yes,Yes,Research Scientist,Entry,Basic Level of Stock
+861,No,No,Manager,Head,No
+862,No,No,Research Scientist,Entry,No
+863,No,No,Human Resources,Entry,Basic Level of Stock
+864,No,Yes,Research Scientist,Entry,Basic Level of Stock
+865,No,No,Sales Executive,Associate,High Level of Stock
+866,No,No,Sales Executive,Associate,High Level of Stock
+867,No,No,Manager,Head,Basic Level of Stock
+868,No,No,Laboratory Technician,Entry,High Level of Stock
+869,No,No,Research Director,C-Level,Basic Level of Stock
+870,Yes,No,Sales Executive,Associate,High Level of Stock
+871,No,Yes,Laboratory Technician,Entry,Basic Level of Stock
+872,No,No,Sales Executive,Associate,Basic Level of Stock
+873,No,No,Laboratory Technician,Entry,Basic Level of Stock
+874,No,No,Laboratory Technician,Associate,High Level of Stock
+875,No,No,Research Scientist,Associate,No
+876,No,No,Sales Representative,Entry,No
+877,No,No,Manufacturing Director,Associate,Basic Level of Stock
+878,No,No,Human Resources,Associate,Basic Level of Stock
+879,Yes,No,Sales Executive,Associate,Basic Level of Stock
+880,No,No,Laboratory Technician,Entry,Basic Level of Stock
+881,Yes,No,Research Scientist,Associate,No
+882,Yes,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+883,No,No,Research Scientist,Entry,Basic Level of Stock
+884,No,No,Sales Executive,Associate,Basic Level of Stock
+885,No,No,Sales Executive,Associate,No
+886,Yes,No,Research Scientist,Entry,Basic Level of Stock
+887,Yes,No,Research Director,Middle-Management,No
+888,Yes,No,Sales Executive,Middle-Management,Basic Level of Stock
+889,Yes,No,Research Scientist,Entry,Medium Level of Stock
+890,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+891,No,No,Research Scientist,Entry,Basic Level of Stock
+892,Yes,Yes,Research Scientist,Entry,No
+893,No,No,Research Scientist,Entry,High Level of Stock
+894,No,No,Research Director,Head,No
+895,Yes,No,Healthcare Representative,Associate,No
+896,No,No,Healthcare Representative,Associate,No
+897,No,No,Sales Executive,Associate,No
+898,No,No,Research Director,C-Level,Basic Level of Stock
+899,No,No,Manager,C-Level,Basic Level of Stock
+900,No,No,Research Scientist,Entry,No
+901,No,No,Laboratory Technician,Entry,No
+902,No,No,Research Scientist,Entry,High Level of Stock
+903,Yes,No,Healthcare Representative,Associate,Medium Level of Stock
+904,No,No,Research Director,C-Level,No
+905,No,No,Research Director,Head,Medium Level of Stock
+906,No,No,Research Scientist,Entry,No
+907,No,No,Manager,C-Level,Basic Level of Stock
+908,Yes,No,Sales Executive,Middle-Management,Medium Level of Stock
+909,Yes,No,Research Scientist,Entry,No
+910,No,No,Research Scientist,Entry,Basic Level of Stock
+911,Yes,Yes,Sales Representative,Entry,No
+912,Yes,No,Research Scientist,Entry,No
+913,Yes,Yes,Manager,C-Level,No
+914,Yes,No,Healthcare Representative,Head,Basic Level of Stock
+915,No,Yes,Laboratory Technician,Entry,No
+916,No,No,Manager,C-Level,Basic Level of Stock
+917,Yes,No,Sales Executive,Associate,No
+918,Yes,No,Manager,C-Level,Basic Level of Stock
+919,No,No,Manufacturing Director,Middle-Management,No
+920,No,No,Laboratory Technician,Associate,Medium Level of Stock
+921,Yes,No,Laboratory Technician,Entry,No
+922,No,No,Manager,C-Level,Medium Level of Stock
+923,No,No,Human Resources,Associate,Medium Level of Stock
+924,Yes,No,Research Scientist,Entry,No
+925,Yes,No,Research Scientist,Associate,No
+926,No,No,Sales Executive,Middle-Management,No
+927,Yes,No,Manufacturing Director,Associate,No
+928,No,Yes,Healthcare Representative,Middle-Management,Basic Level of Stock
+929,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+930,No,No,Laboratory Technician,Entry,No
+931,Yes,No,Manufacturing Director,Associate,No
+932,Yes,Yes,Laboratory Technician,Entry,Medium Level of Stock
+933,No,No,Research Scientist,Entry,No
+934,No,No,Research Scientist,Entry,No
+935,No,No,Sales Executive,Associate,Medium Level of Stock
+936,No,No,Manager,C-Level,No
+937,Yes,No,Manager,Head,Medium Level of Stock
+938,No,No,Research Scientist,Entry,Medium Level of Stock
+939,No,Yes,Laboratory Technician,Associate,Basic Level of Stock
+940,No,Yes,Research Scientist,Entry,No
+941,No,No,Laboratory Technician,Associate,Basic Level of Stock
+942,No,No,Healthcare Representative,Middle-Management,No
+943,No,No,Human Resources,Entry,No
+944,No,No,Laboratory Technician,Associate,High Level of Stock
+945,Yes,No,Research Director,Head,No
+946,Yes,Yes,Sales Executive,Middle-Management,No
+947,Yes,Yes,Sales Executive,Middle-Management,No
+948,Yes,No,Manager,Middle-Management,Medium Level of Stock
+949,No,No,Manufacturing Director,Associate,No
+950,Yes,No,Sales Executive,Middle-Management,Basic Level of Stock
+951,No,No,Sales Executive,Associate,No
+952,Yes,Yes,Sales Representative,Entry,No
+953,No,Yes,Laboratory Technician,Entry,No
+954,Yes,No,Manager,Head,No
+955,No,No,Manager,C-Level,Basic Level of Stock
+956,No,No,Manager,C-Level,No
+957,No,No,Research Scientist,Entry,Basic Level of Stock
+958,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+959,No,No,Research Scientist,Associate,No
+960,No,No,Sales Executive,Associate,Basic Level of Stock
+961,Yes,No,Research Scientist,Associate,No
+962,Yes,No,Manager,Head,Basic Level of Stock
+963,No,No,Sales Executive,Associate,Basic Level of Stock
+964,No,No,Sales Executive,Associate,No
+965,No,No,Laboratory Technician,Entry,High Level of Stock
+966,Yes,Yes,Manufacturing Director,Middle-Management,No
+967,No,No,Laboratory Technician,Entry,Basic Level of Stock
+968,No,No,Sales Executive,Associate,Basic Level of Stock
+969,No,No,Manufacturing Director,Middle-Management,No
+970,No,No,Sales Representative,Entry,Basic Level of Stock
+971,No,No,Manufacturing Director,Head,No
+972,No,No,Laboratory Technician,Entry,No
+973,No,No,Laboratory Technician,Associate,Basic Level of Stock
+974,No,No,Sales Executive,Associate,No
+975,Yes,Yes,Sales Executive,Head,No
+976,Yes,No,Manufacturing Director,Head,Basic Level of Stock
+977,No,No,Research Scientist,Entry,High Level of Stock
+978,No,No,Healthcare Representative,Associate,High Level of Stock
+979,No,No,Laboratory Technician,Associate,Medium Level of Stock
+980,No,Yes,Sales Representative,Entry,No
+981,Yes,Yes,Sales Executive,Associate,Basic Level of Stock
+982,No,No,Research Scientist,Entry,High Level of Stock
+983,No,No,Healthcare Representative,Associate,No
+984,No,No,Sales Executive,Associate,Basic Level of Stock
+985,Yes,Yes,Manufacturing Director,Associate,Medium Level of Stock
+986,Yes,No,Sales Executive,Associate,Medium Level of Stock
+987,No,No,Sales Executive,Middle-Management,No
+988,Yes,No,Research Scientist,Associate,Medium Level of Stock
+989,Yes,No,Research Scientist,Entry,No
+990,No,No,Sales Executive,Associate,No
+991,Yes,No,Sales Executive,Associate,High Level of Stock
+992,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+993,No,No,Sales Executive,Associate,No
+994,Yes,No,Manufacturing Director,Head,Basic Level of Stock
+995,Yes,No,Research Scientist,Associate,No
+996,Yes,No,Sales Executive,Associate,No
+997,Yes,Yes,Research Scientist,Entry,No
+998,No,No,Research Scientist,Entry,No
+999,No,No,Manager,Head,Basic Level of Stock
+1000,No,No,Laboratory Technician,Entry,No
+1001,No,No,Laboratory Technician,Entry,No
+1002,No,No,Manufacturing Director,Middle-Management,No
+1003,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1004,No,No,Laboratory Technician,Entry,No
+1005,No,No,Human Resources,Middle-Management,No
+1006,No,Yes,Laboratory Technician,Associate,No
+1007,Yes,Yes,Healthcare Representative,Middle-Management,No
+1008,No,No,Research Director,Head,No
+1009,Yes,No,Research Director,C-Level,Basic Level of Stock
+1010,No,No,Research Director,Head,Medium Level of Stock
+1011,Yes,No,Sales Executive,Associate,No
+1012,No,Yes,Sales Representative,Entry,No
+1013,No,No,Sales Executive,Associate,Medium Level of Stock
+1014,No,No,Research Director,Head,No
+1015,No,No,Research Scientist,Entry,Medium Level of Stock
+1016,No,Yes,Research Scientist,Entry,No
+1017,No,No,Laboratory Technician,Entry,No
+1018,No,No,Laboratory Technician,Associate,No
+1019,No,No,Sales Executive,Associate,Medium Level of Stock
+1020,No,No,Research Scientist,Entry,Basic Level of Stock
+1021,No,Yes,Sales Representative,Entry,No
+1022,No,No,Laboratory Technician,Entry,No
+1023,No,No,Research Scientist,Entry,Basic Level of Stock
+1024,No,No,Research Director,Head,Medium Level of Stock
+1025,Yes,No,Sales Executive,Associate,Medium Level of Stock
+1026,No,No,Sales Executive,Associate,Basic Level of Stock
+1027,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1028,Yes,No,Research Scientist,Entry,No
+1029,No,No,Laboratory Technician,Associate,Medium Level of Stock
+1030,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+1031,No,Yes,Sales Executive,Middle-Management,Basic Level of Stock
+1032,Yes,Yes,Laboratory Technician,Entry,No
+1033,No,Yes,Manufacturing Director,Middle-Management,No
+1034,Yes,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+1035,No,No,Human Resources,Entry,No
+1036,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+1037,Yes,No,Manufacturing Director,Middle-Management,Medium Level of Stock
+1038,No,No,Sales Executive,Associate,High Level of Stock
+1039,No,Yes,Human Resources,Entry,No
+1040,No,No,Research Director,Middle-Management,Basic Level of Stock
+1041,No,No,Sales Executive,Associate,No
+1042,No,No,Laboratory Technician,Entry,No
+1043,No,No,Research Director,Head,No
+1044,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1045,No,No,Research Scientist,Entry,Basic Level of Stock
+1046,No,No,Research Scientist,Entry,No
+1047,No,No,Sales Executive,Associate,Medium Level of Stock
+1048,No,No,Sales Executive,Associate,No
+1049,No,No,Sales Executive,Associate,Medium Level of Stock
+1050,No,No,Laboratory Technician,Entry,No
+1051,No,No,Sales Executive,Associate,Basic Level of Stock
+1052,No,No,Research Scientist,Entry,Medium Level of Stock
+1053,No,No,Research Scientist,Associate,Basic Level of Stock
+1054,No,No,Healthcare Representative,Middle-Management,Medium Level of Stock
+1055,No,No,Research Director,Head,Medium Level of Stock
+1056,No,Yes,Sales Representative,Entry,Basic Level of Stock
+1057,No,Yes,Sales Executive,Associate,No
+1058,Yes,Yes,Sales Executive,Associate,No
+1059,No,No,Sales Representative,Entry,Basic Level of Stock
+1060,Yes,Yes,Laboratory Technician,Entry,No
+1061,No,No,Sales Representative,Entry,Basic Level of Stock
+1062,Yes,No,Manufacturing Director,Middle-Management,No
+1063,No,No,Sales Executive,Associate,Medium Level of Stock
+1064,No,No,Human Resources,Entry,Basic Level of Stock
+1065,Yes,No,Healthcare Representative,Associate,No
+1066,No,No,Laboratory Technician,Entry,No
+1067,Yes,No,Sales Executive,Associate,Basic Level of Stock
+1068,No,Yes,Laboratory Technician,Entry,No
+1069,No,No,Research Scientist,Entry,Basic Level of Stock
+1070,No,No,Sales Executive,Associate,No
+1071,No,No,Laboratory Technician,Associate,Basic Level of Stock
+1072,No,No,Laboratory Technician,Entry,High Level of Stock
+1073,No,No,Manufacturing Director,Associate,Medium Level of Stock
+1074,Yes,No,Healthcare Representative,Associate,No
+1075,No,No,Manager,Middle-Management,No
+1076,No,No,Manager,Head,Basic Level of Stock
+1077,No,Yes,Research Scientist,Entry,No
+1078,No,No,Research Director,Head,Basic Level of Stock
+1079,No,No,Manufacturing Director,Middle-Management,No
+1080,No,No,Manager,Head,Basic Level of Stock
+1081,No,No,Healthcare Representative,Middle-Management,No
+1082,No,No,Laboratory Technician,Associate,No
+1083,No,Yes,Laboratory Technician,Entry,No
+1084,Yes,No,Sales Executive,Middle-Management,No
+1085,No,Yes,Research Scientist,Entry,No
+1086,Yes,No,Research Director,Head,No
+1087,Yes,No,Sales Representative,Entry,Basic Level of Stock
+1088,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1089,No,No,Research Scientist,Associate,No
+1090,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1091,No,No,Manufacturing Director,Associate,No
+1092,No,No,Research Scientist,Entry,Basic Level of Stock
+1093,Yes,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+1094,No,No,Sales Executive,Associate,No
+1095,Yes,No,Laboratory Technician,Associate,Basic Level of Stock
+1096,Yes,No,Manager,Head,No
+1097,No,No,Laboratory Technician,Entry,High Level of Stock
+1098,Yes,No,Healthcare Representative,Associate,No
+1099,No,No,Healthcare Representative,Middle-Management,High Level of Stock
+1100,No,No,Sales Representative,Entry,Medium Level of Stock
+1101,No,No,Research Scientist,Associate,Basic Level of Stock
+1102,Yes,No,Sales Representative,Entry,No
+1103,No,No,Sales Executive,Associate,Basic Level of Stock
+1104,No,No,Research Scientist,Entry,Medium Level of Stock
+1105,No,No,Sales Executive,Associate,Basic Level of Stock
+1106,No,Yes,Sales Executive,Associate,Basic Level of Stock
+1107,No,No,Human Resources,Associate,No
+1108,No,No,Laboratory Technician,Entry,No
+1109,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+1110,Yes,Yes,Laboratory Technician,Entry,Basic Level of Stock
+1111,No,Yes,Manufacturing Director,Middle-Management,Basic Level of Stock
+1112,No,Yes,Manufacturing Director,Associate,Medium Level of Stock
+1113,No,No,Research Scientist,Associate,Basic Level of Stock
+1114,No,No,Research Scientist,Entry,Basic Level of Stock
+1115,No,No,Research Scientist,Entry,No
+1116,No,No,Manager,C-Level,Basic Level of Stock
+1117,No,No,Research Scientist,Associate,Basic Level of Stock
+1118,No,No,Research Scientist,Entry,No
+1119,No,No,Sales Executive,Associate,Basic Level of Stock
+1120,No,No,Sales Executive,Associate,No
+1121,No,No,Sales Executive,Associate,No
+1122,Yes,No,Laboratory Technician,Entry,No
+1123,Yes,No,Healthcare Representative,Associate,No
+1124,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+1125,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1126,Yes,No,Manager,C-Level,Basic Level of Stock
+1127,No,No,Research Scientist,Entry,Basic Level of Stock
+1128,Yes,No,Laboratory Technician,Associate,Basic Level of Stock
+1129,No,No,Manager,C-Level,No
+1130,No,No,Laboratory Technician,Associate,Medium Level of Stock
+1131,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1132,No,No,Sales Executive,Associate,Basic Level of Stock
+1133,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1134,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1135,No,No,Manager,Head,No
+1136,Yes,Yes,Laboratory Technician,Entry,High Level of Stock
+1137,Yes,No,Research Scientist,Entry,No
+1138,Yes,No,Healthcare Representative,Head,Basic Level of Stock
+1139,No,No,Research Scientist,Entry,Medium Level of Stock
+1140,Yes,No,Research Director,C-Level,Basic Level of Stock
+1141,No,No,Research Scientist,Entry,Basic Level of Stock
+1142,Yes,No,Laboratory Technician,Associate,No
+1143,No,No,Sales Executive,Associate,Basic Level of Stock
+1144,No,No,Sales Executive,Associate,No
+1145,Yes,No,Manufacturing Director,Associate,Medium Level of Stock
+1146,No,No,Manufacturing Director,Associate,Basic Level of Stock
+1147,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1148,No,No,Manufacturing Director,Associate,High Level of Stock
+1149,No,No,Laboratory Technician,Entry,Medium Level of Stock
+1150,No,No,Research Scientist,Associate,No
+1151,No,No,Manufacturing Director,Associate,Basic Level of Stock
+1152,No,No,Research Scientist,Entry,No
+1153,Yes,Yes,Sales Representative,Entry,No
+1154,No,No,Manager,C-Level,Basic Level of Stock
+1155,No,No,Laboratory Technician,Associate,Basic Level of Stock
+1156,No,No,Manufacturing Director,Middle-Management,Medium Level of Stock
+1157,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1158,No,No,Manufacturing Director,Associate,High Level of Stock
+1159,No,No,Manufacturing Director,Associate,No
+1160,No,No,Manufacturing Director,Associate,Medium Level of Stock
+1161,Yes,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+1162,No,Yes,Sales Executive,Middle-Management,No
+1163,No,No,Research Scientist,Entry,Basic Level of Stock
+1164,Yes,No,Manufacturing Director,Middle-Management,No
+1165,Yes,No,Human Resources,Associate,No
+1166,No,No,Manager,Head,Basic Level of Stock
+1167,Yes,Yes,Sales Executive,Associate,Medium Level of Stock
+1168,Yes,No,Research Scientist,Entry,No
+1169,No,No,Research Scientist,Entry,No
+1170,No,No,Research Scientist,Entry,No
+1171,Yes,Yes,Laboratory Technician,Entry,No
+1172,No,No,Sales Executive,Associate,No
+1173,No,No,Healthcare Representative,Middle-Management,Medium Level of Stock
+1174,No,No,Manufacturing Director,Associate,Medium Level of Stock
+1175,No,No,Manufacturing Director,Associate,No
+1176,No,No,Research Director,Head,Medium Level of Stock
+1177,No,No,Research Director,Middle-Management,High Level of Stock
+1178,No,No,Sales Representative,Entry,No
+1179,No,No,Research Scientist,Associate,Basic Level of Stock
+1180,No,No,Laboratory Technician,Entry,No
+1181,Yes,No,Healthcare Representative,Head,Basic Level of Stock
+1182,No,No,Manufacturing Director,Associate,No
+1183,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1184,No,No,Manager,Head,Basic Level of Stock
+1185,No,No,Research Director,Head,Basic Level of Stock
+1186,Yes,Yes,Sales Executive,Associate,No
+1187,No,No,Research Scientist,Associate,Medium Level of Stock
+1188,Yes,No,Sales Executive,Associate,Basic Level of Stock
+1189,No,No,Sales Executive,Associate,Medium Level of Stock
+1190,No,No,Research Scientist,Associate,Medium Level of Stock
+1191,No,No,Sales Executive,Associate,Medium Level of Stock
+1192,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+1193,No,No,Laboratory Technician,Entry,No
+1194,No,No,Manager,Head,High Level of Stock
+1195,No,No,Manager,Head,No
+1196,Yes,No,Sales Executive,Middle-Management,No
+1197,No,No,Sales Representative,Entry,No
+1198,Yes,No,Sales Executive,Associate,Basic Level of Stock
+1199,No,No,Healthcare Representative,Associate,Medium Level of Stock
+1200,Yes,No,Human Resources,Entry,High Level of Stock
+1201,Yes,Yes,Laboratory Technician,Entry,No
+1202,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1203,No,No,Healthcare Representative,Middle-Management,No
+1204,Yes,Yes,Sales Representative,Entry,Medium Level of Stock
+1205,No,Yes,Laboratory Technician,Entry,No
+1206,No,No,Laboratory Technician,Entry,No
+1207,No,No,Research Scientist,Entry,Basic Level of Stock
+1208,No,No,Laboratory Technician,Associate,Basic Level of Stock
+1209,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+1210,No,No,Laboratory Technician,Entry,High Level of Stock
+1211,No,No,Sales Executive,Associate,Medium Level of Stock
+1212,No,No,Research Scientist,Entry,No
+1213,Yes,Yes,Sales Representative,Entry,Basic Level of Stock
+1214,Yes,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+1215,Yes,No,Research Scientist,Entry,No
+1216,Yes,No,Sales Executive,Associate,Basic Level of Stock
+1217,No,No,Research Scientist,Entry,Basic Level of Stock
+1218,No,No,Sales Executive,Middle-Management,No
+1219,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1220,No,No,Sales Representative,Associate,No
+1221,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+1222,No,Yes,Human Resources,Entry,Basic Level of Stock
+1223,No,Yes,Sales Executive,Head,No
+1224,No,No,Laboratory Technician,Entry,High Level of Stock
+1225,No,No,Research Director,Head,No
+1226,No,No,Research Scientist,Entry,Basic Level of Stock
+1227,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1228,No,No,Human Resources,Associate,Basic Level of Stock
+1229,Yes,No,Manufacturing Director,Associate,Basic Level of Stock
+1230,No,No,Laboratory Technician,Entry,High Level of Stock
+1231,No,No,Healthcare Representative,Associate,No
+1232,No,No,Manufacturing Director,Associate,Basic Level of Stock
+1233,No,No,Research Scientist,Entry,Basic Level of Stock
+1234,No,No,Sales Executive,Associate,Basic Level of Stock
+1235,Yes,No,Sales Executive,Middle-Management,Basic Level of Stock
+1236,Yes,Yes,Sales Executive,Associate,High Level of Stock
+1237,No,Yes,Sales Executive,Associate,No
+1238,No,No,Laboratory Technician,Entry,No
+1239,No,No,Manufacturing Director,Associate,No
+1240,Yes,No,Laboratory Technician,Associate,Basic Level of Stock
+1241,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+1242,No,No,Manager,C-Level,No
+1243,No,No,Human Resources,Middle-Management,Medium Level of Stock
+1244,No,No,Research Scientist,Entry,No
+1245,No,No,Human Resources,Entry,Basic Level of Stock
+1246,No,Yes,Human Resources,Entry,Basic Level of Stock
+1247,No,No,Sales Executive,Associate,Basic Level of Stock
+1248,No,No,Research Scientist,Entry,No
+1249,No,Yes,Sales Representative,Entry,No
+1250,Yes,No,Healthcare Representative,Associate,No
+1251,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+1252,Yes,No,Research Scientist,Entry,High Level of Stock
+1253,No,No,Sales Executive,Associate,No
+1254,No,No,Sales Executive,Associate,No
+1255,Yes,Yes,Sales Executive,Middle-Management,No
+1256,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1257,No,Yes,Sales Executive,Middle-Management,High Level of Stock
+1258,No,No,Research Scientist,Entry,Basic Level of Stock
+1259,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1260,No,No,Research Scientist,Entry,No
+1261,Yes,No,Healthcare Representative,Associate,Basic Level of Stock
+1262,Yes,Yes,Research Scientist,Entry,Basic Level of Stock
+1263,No,No,Laboratory Technician,Entry,High Level of Stock
+1264,No,No,Research Director,C-Level,High Level of Stock
+1265,No,No,Research Scientist,Associate,Medium Level of Stock
+1266,No,No,Laboratory Technician,Entry,Medium Level of Stock
+1267,Yes,No,Sales Executive,Associate,Basic Level of Stock
+1268,Yes,No,Manufacturing Director,Head,High Level of Stock
+1269,No,No,Human Resources,Entry,No
+1270,No,No,Sales Executive,Associate,No
+1271,No,Yes,Sales Representative,Entry,No
+1272,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1273,Yes,Yes,Laboratory Technician,Entry,No
+1274,No,No,Sales Executive,Associate,Medium Level of Stock
+1275,No,No,Manager,Middle-Management,No
+1276,No,No,Sales Executive,Associate,Medium Level of Stock
+1277,Yes,No,Research Director,C-Level,Basic Level of Stock
+1278,Yes,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+1279,Yes,Yes,Research Scientist,Entry,High Level of Stock
+1280,No,No,Human Resources,Associate,No
+1281,Yes,Yes,Sales Executive,Associate,No
+1282,No,No,Research Scientist,Entry,Basic Level of Stock
+1283,No,No,Research Scientist,Entry,Basic Level of Stock
+1284,No,No,Research Director,Middle-Management,No
+1285,No,No,Sales Executive,Associate,No
+1286,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1287,No,No,Healthcare Representative,Associate,Medium Level of Stock
+1288,No,No,Manufacturing Director,Associate,Basic Level of Stock
+1289,No,No,Human Resources,Entry,High Level of Stock
+1290,No,Yes,Laboratory Technician,Associate,Basic Level of Stock
+1291,No,Yes,Manufacturing Director,Associate,No
+1292,No,No,Sales Executive,Associate,Basic Level of Stock
+1293,No,No,Research Scientist,Entry,No
+1294,No,No,Healthcare Representative,Associate,No
+1295,Yes,No,Sales Executive,Middle-Management,Basic Level of Stock
+1296,No,No,Manufacturing Director,Middle-Management,No
+1297,Yes,Yes,Human Resources,Entry,No
+1298,No,Yes,Healthcare Representative,Associate,Basic Level of Stock
+1299,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1300,No,No,Sales Executive,Associate,Medium Level of Stock
+1301,No,No,Manager,Head,Basic Level of Stock
+1302,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1303,Yes,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+1304,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1305,No,No,Research Scientist,Associate,Basic Level of Stock
+1306,No,No,Sales Executive,Middle-Management,Medium Level of Stock
+1307,No,No,Research Scientist,Entry,Basic Level of Stock
+1308,Yes,No,Sales Representative,Associate,Medium Level of Stock
+1309,No,No,Sales Executive,Associate,No
+1310,Yes,No,Research Director,Head,No
+1311,No,No,Research Scientist,Entry,No
+1312,No,Yes,Human Resources,Entry,No
+1313,Yes,Yes,Human Resources,Entry,High Level of Stock
+1314,No,No,Sales Executive,Associate,Medium Level of Stock
+1315,Yes,No,Research Scientist,Associate,Basic Level of Stock
+1316,No,No,Sales Executive,Associate,Basic Level of Stock
+1317,Yes,No,Laboratory Technician,Entry,No
+1318,No,No,Laboratory Technician,Entry,No
+1319,No,No,Sales Executive,Associate,No
+1320,No,No,Research Scientist,Entry,Medium Level of Stock
+1321,No,No,Laboratory Technician,Entry,No
+1322,No,No,Manufacturing Director,Middle-Management,Basic Level of Stock
+1323,No,No,Human Resources,Entry,Basic Level of Stock
+1324,No,No,Healthcare Representative,Associate,Medium Level of Stock
+1325,No,No,Laboratory Technician,Entry,No
+1326,Yes,Yes,Sales Executive,Associate,No
+1327,No,No,Sales Executive,Head,Basic Level of Stock
+1328,No,No,Sales Representative,Associate,Basic Level of Stock
+1329,No,No,Human Resources,Entry,No
+1330,No,No,Manager,C-Level,No
+1331,No,No,Research Director,C-Level,No
+1332,Yes,Yes,Research Scientist,Entry,No
+1333,No,Yes,Sales Executive,Middle-Management,High Level of Stock
+1334,No,No,Research Scientist,Entry,Basic Level of Stock
+1335,No,No,Research Scientist,Associate,High Level of Stock
+1336,No,No,Research Scientist,Entry,Basic Level of Stock
+1337,No,No,Sales Representative,Entry,Basic Level of Stock
+1338,No,Yes,Sales Representative,Entry,No
+1339,Yes,Yes,Research Scientist,Entry,No
+1340,Yes,No,Sales Executive,Associate,Basic Level of Stock
+1341,No,No,Laboratory Technician,Associate,Basic Level of Stock
+1342,Yes,No,Sales Executive,Middle-Management,High Level of Stock
+1343,No,No,Laboratory Technician,Entry,No
+1344,Yes,No,Research Scientist,Associate,Basic Level of Stock
+1345,Yes,No,Manufacturing Director,Associate,No
+1346,No,No,Manufacturing Director,Associate,Medium Level of Stock
+1347,No,No,Human Resources,Associate,No
+1348,No,No,Manager,Head,Basic Level of Stock
+1349,Yes,No,Research Scientist,Entry,Basic Level of Stock
+1350,No,No,Sales Executive,Associate,No
+1351,No,No,Manager,Head,Basic Level of Stock
+1352,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1353,Yes,Yes,Research Scientist,Entry,Basic Level of Stock
+1354,No,Yes,Laboratory Technician,Entry,No
+1355,No,No,Sales Executive,Associate,Medium Level of Stock
+1356,No,No,Sales Executive,Associate,Basic Level of Stock
+1357,No,No,Research Director,Middle-Management,Basic Level of Stock
+1358,Yes,No,Sales Executive,Associate,Basic Level of Stock
+1359,Yes,No,Sales Executive,Associate,No
+1360,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1361,No,No,Laboratory Technician,Entry,Basic Level of Stock
+1362,No,No,Healthcare Representative,Associate,No
+1363,No,No,Sales Executive,Associate,No
+1364,Yes,No,Sales Executive,Associate,Basic Level of Stock
+1365,No,Yes,Sales Representative,Entry,No
+1366,No,No,Sales Executive,Associate,Basic Level of Stock
+1367,No,No,Research Scientist,Entry,Basic Level of Stock
+1368,Yes,No,Research Scientist,Associate,No
+1369,Yes,Yes,Sales Executive,Associate,No
+1370,No,No,Research Scientist,Associate,Basic Level of Stock
+1371,No,No,Sales Executive,Associate,Basic Level of Stock
+1372,No,No,Manufacturing Director,Associate,Basic Level of Stock
+1373,Yes,No,Research Scientist,Associate,Basic Level of Stock
+1374,Yes,No,Manager,Head,Basic Level of Stock
+1375,Yes,Yes,Research Scientist,Entry,No
+1376,No,No,Research Scientist,Entry,Medium Level of Stock
+1377,No,No,Research Director,C-Level,No
+1378,Yes,No,Sales Executive,Associate,Medium Level of Stock
+1379,No,Yes,Human Resources,Entry,No
+1380,No,No,Sales Executive,Associate,Basic Level of Stock
+1381,No,No,Research Scientist,Entry,No
+1382,Yes,No,Research Scientist,Entry,Basic Level of Stock
+1383,No,No,Laboratory Technician,Entry,No
+1384,No,No,Sales Executive,Middle-Management,No
+1385,No,No,Sales Executive,Middle-Management,Basic Level of Stock
+1386,No,No,Laboratory Technician,Entry,No
+1387,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1388,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1389,No,No,Research Scientist,Associate,No
+1390,No,Yes,Laboratory Technician,Entry,Basic Level of Stock
+1391,No,No,Sales Representative,Entry,No
+1392,Yes,No,Sales Executive,Associate,No
+1393,No,No,Sales Executive,Associate,No
+1394,No,No,Manufacturing Director,Associate,No
+1395,Yes,Yes,Sales Executive,Associate,No
+1396,Yes,Yes,Sales Executive,Middle-Management,No
+1397,No,No,Research Scientist,Associate,Medium Level of Stock
+1398,No,No,Healthcare Representative,Associate,High Level of Stock
+1399,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+1400,Yes,No,Human Resources,Entry,Basic Level of Stock
+1401,Yes,No,Manager,C-Level,Basic Level of Stock
+1402,Yes,No,Laboratory Technician,Entry,High Level of Stock
+1403,No,No,Sales Executive,Head,No
+1404,No,No,Research Scientist,Associate,No
+1405,No,No,Research Director,Middle-Management,Basic Level of Stock
+1406,Yes,No,Manufacturing Director,Associate,No
+1407,No,No,Healthcare Representative,Associate,No
+1408,No,No,Laboratory Technician,Entry,No
+1409,No,No,Laboratory Technician,Associate,Basic Level of Stock
+1410,No,No,Sales Executive,Associate,Basic Level of Stock
+1411,No,No,Human Resources,Entry,No
+1412,No,No,Laboratory Technician,Entry,No
+1413,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+1414,No,No,Healthcare Representative,Middle-Management,No
+1415,No,No,Laboratory Technician,Entry,High Level of Stock
+1416,No,No,Sales Executive,Associate,Medium Level of Stock
+1417,No,No,Sales Representative,Entry,Basic Level of Stock
+1418,No,No,Manufacturing Director,Associate,Basic Level of Stock
+1419,Yes,No,Research Scientist,Associate,Basic Level of Stock
+1420,No,No,Research Scientist,Entry,Basic Level of Stock
+1421,No,No,Research Director,Middle-Management,Medium Level of Stock
+1422,Yes,No,Laboratory Technician,Entry,Basic Level of Stock
+1423,No,No,Research Scientist,Entry,No
+1424,No,No,Research Scientist,Associate,No
+1425,Yes,No,Healthcare Representative,Associate,Basic Level of Stock
+1426,No,No,Laboratory Technician,Entry,No
+1427,No,No,Laboratory Technician,Entry,Medium Level of Stock
+1428,No,No,Sales Representative,Entry,Basic Level of Stock
+1429,No,No,Research Scientist,Associate,No
+1430,No,No,Research Director,Middle-Management,Basic Level of Stock
+1431,No,No,Sales Executive,Middle-Management,Medium Level of Stock
+1432,Yes,No,Research Director,Middle-Management,Basic Level of Stock
+1433,Yes,No,Sales Executive,Associate,Basic Level of Stock
+1434,No,No,Sales Representative,Entry,Medium Level of Stock
+1435,Yes,No,Research Scientist,Entry,No
+1436,Yes,No,Sales Representative,Entry,No
+1437,No,No,Manager,C-Level,No
+1438,No,Yes,Sales Representative,Entry,Basic Level of Stock
+1439,No,No,Sales Executive,Middle-Management,Medium Level of Stock
+1440,No,No,Manufacturing Director,Associate,High Level of Stock
+1441,No,No,Healthcare Representative,Associate,Basic Level of Stock
+1442,Yes,Yes,Research Scientist,Entry,High Level of Stock
+1443,No,No,Manager,C-Level,No
+1444,No,Yes,Laboratory Technician,Entry,Basic Level of Stock
+1445,No,No,Manufacturing Director,Head,Basic Level of Stock
+1446,No,No,Sales Executive,Associate,Medium Level of Stock
+1447,No,No,Sales Executive,Associate,Basic Level of Stock
+1448,No,No,Sales Executive,Associate,Basic Level of Stock
+1449,No,No,Research Scientist,Entry,No
+1450,Yes,No,Human Resources,Middle-Management,No
+1451,No,No,Sales Executive,Associate,Basic Level of Stock
+1452,No,Yes,Sales Executive,Associate,Medium Level of Stock
+1453,No,No,Sales Executive,Associate,Basic Level of Stock
+1454,No,No,Sales Executive,Associate,No
+1455,No,No,Research Scientist,Entry,No
+1456,Yes,No,Healthcare Representative,Associate,Medium Level of Stock
+1457,No,No,Research Scientist,Entry,High Level of Stock
+1458,No,No,Research Scientist,Entry,Basic Level of Stock
+1459,Yes,No,Laboratory Technician,Associate,Basic Level of Stock
+1460,No,No,Research Scientist,Entry,No
+1461,Yes,Yes,Sales Executive,Middle-Management,Basic Level of Stock
+1462,No,No,Sales Executive,Head,Basic Level of Stock
+1463,No,No,Manufacturing Director,Associate,No
+1464,No,No,Sales Representative,Entry,No
+1465,No,No,Laboratory Technician,Associate,Basic Level of Stock
+1466,No,No,Healthcare Representative,Middle-Management,Basic Level of Stock
+1467,Yes,No,Manufacturing Director,Associate,Basic Level of Stock
+1468,No,No,Sales Executive,Associate,No
+1469,No,No,Laboratory Technician,Associate,No

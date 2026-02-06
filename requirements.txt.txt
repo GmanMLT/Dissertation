@@ -1,0 +1,10 @@
+streamlit
+pandas
+seaborn
+matplotlib
+shap
+joblib
+plotly
+yfiles-graphs-for-streamlit
+yfiles-jupyter-graphs
+neo4j

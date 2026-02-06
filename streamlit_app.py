@@ -99,7 +99,7 @@ elif page == "Model Performance":
 
           st.metric(
           label="Overall Accuracy",
-          value=f"{dfperformanceacc.iloc[0, 0]:.1%}"
+          value=f"{dfperformanceacc.iloc[0, 0]}"
           )
 
 elif page == "Key Correlation Plots":
@@ -353,6 +353,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

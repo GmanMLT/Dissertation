@@ -102,6 +102,128 @@ elif page == "Model Performance":
           value=f"{dfperformanceacc.iloc[0, 0]:.1%}"
           )
 
+elif page == "Key Correlation Plots":
+        st.title("Key Correlation Plots")
+
+        st.write("Kindly find the top 4 most highly correleated features with respect to attrition label")
+
+        # (Overtime, JobRole, JobLevel, StockOptionLevel) with respect to the attrition label")
+        st.markdown("1. Overtime  \n2. JobRole  \n3. JobLevel  \n4. StockOptionLevel")
+
+
+        ##Retrieve data
+        dfcorreleations = pd.read_csv('dfcorreleations.csv', index_col =0)
+
+
+        st.subheader("Overtime versus Attrition")
+        st.write("Overtime is associated with the Strategic Category **'Work Enviroment'** ")
+        #Diagram 1
+        res = pd.crosstab(dfcorreleations.OverTime, dfcorreleations.Attrition)
+        st.dataframe(res)
+
+
+   #     st.write("###Heatmap")
+
+        fig, ax = plt.subplots(figsize=(6, 4))
+
+        sns.heatmap(
+            pd.crosstab(
+                dfcorreleations["OverTime"],
+                dfcorreleations["Attrition"],
+                normalize="index"
+            ),
+            annot=True,
+            cmap="Blues",
+            ax=ax
+        )
+
+        ax.set_xlabel("Attrition")
+        ax.set_ylabel("OverTime")
+
+        st.pyplot(fig, width = "stretch")
+
+
+
+      #'Diagram2 '
+        st.subheader("JobRole versus Attrition")
+        st.write("JobRole is associated with the Strategic Category **'Work Enviroment'** ")
+
+        res2 = pd.crosstab(dfcorreleations.JobRole, dfcorreleations.Attrition)
+        st.dataframe(res2)
+
+
+
+        fig, ax = plt.subplots(figsize=(6, 4))
+
+        sns.heatmap(
+            pd.crosstab(
+                dfcorreleations["JobRole"],
+                dfcorreleations["Attrition"],
+                normalize="index"
+            ),
+            annot=True,
+            cmap="Blues",
+            ax=ax
+        )
+
+        ax.set_xlabel("Attrition")
+        ax.set_ylabel("JobRole")
+
+        st.pyplot(fig, width = "stretch")
+
+        ## Job Level
+        st.subheader("JobLevel versus Attrition")
+        st.write("JobLevel is associated with the Strategic Category **'Management Culture'** ")
+        res3 = pd.crosstab(dfcorreleations.JobLevel, dfcorreleations.Attrition)
+        st.dataframe(res3)
+
+        #st.write("###Heatmap")
+
+        fig, ax = plt.subplots(figsize=(6, 4))
+
+        sns.heatmap(
+            pd.crosstab(
+                dfcorreleations["JobLevel"],
+                dfcorreleations["Attrition"],
+                normalize="index"
+            ),
+            annot=True,
+            cmap="Blues",
+            ax=ax
+        )
+
+        ax.set_xlabel("Attrition")
+        ax.set_ylabel("JobLevel")
+
+        st.pyplot(fig, width = "stretch")
+
+
+        ## StockOptionLevel
+        st.subheader("StockOptionLevel versus Attrition")
+        st.write("StockOptionLevel is associated with the Strategic Category **'Management Culture'** ")
+        res4 = pd.crosstab(dfcorreleations.StockOptionLevel, dfcorreleations.Attrition)
+        st.dataframe(res4)
+
+        #st.write("###Heatmap")
+
+        fig, ax = plt.subplots(figsize=(6, 4))
+
+        sns.heatmap(
+            pd.crosstab(
+                dfcorreleations["StockOptionLevel"],
+                dfcorreleations["Attrition"],
+                normalize="index"
+            ),
+            annot=True,
+            cmap="Blues",
+            ax=ax
+        )
+
+        ax.set_xlabel("Attrition")
+        ax.set_ylabel("StockOptionLevel")
+
+        st.pyplot(fig, width = "stretch")
+
 
 
        
@@ -110,6 +232,7 @@ elif page == "Model Performance":
     #      st.write("Accuracy is a global measure of how often the model correctly predicts the employee's status (leave / stay) ")
     #      st.write("Recall provides an indication of correctly identified instances i.e. when an employee at risk of attrition is identified as not being at risk of attrition")
     #      st.write("Precision provides an indication of predicted positive instances that are actually correct. It is important to know when the model may misidentify employees who plan on staying as being an attrition risk")
+
 
 
 

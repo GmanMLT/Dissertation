@@ -72,7 +72,7 @@ elif page == "Key Correlation Plots":
 
 
         ##Retrieve data
-        dfcorreleations = pd.read_csv('dfcorreleations.csv', index_col =0)
+        dfcorreleations = pd.read_csv('data/dfcorreleations.csv', index_col =0)
 
         #Overtime versus Attrition 
         st.subheader("Overtime versus Attrition")
@@ -389,6 +389,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 

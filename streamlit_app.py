@@ -297,15 +297,15 @@ elif page == "Departamental Level":
 
    if option == "Human Resources":
      st.image(
-     "/content/HR_DEPARTMENT.jpg",
+     "HR_DEPARTMENT.jpg",
      caption="HR attrition Causes")
    elif option == "Research and Development":
      st.image(
-     "/content/RD_DEPARTMENT.jpg",
+     "RD_DEPARTMENT.jpg",
      caption="RD attrition Causes")
    elif option == "Sales":
      st.image(
-     "/content/SALES_DEPARTMENT.jpg",
+     "SALES_DEPARTMENT.jpg",
      caption="Sales attrition Causes")
 
 
@@ -353,6 +353,7 @@ elif page == "Employee Level":
           image_path,
           caption=f"Attrition Causes – Employee {employeenumber}"
       )
+
 
 
 
